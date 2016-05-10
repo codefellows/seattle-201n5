@@ -38,9 +38,9 @@
 
 **HTML Chapter 10: "Introducing CSS"**
 
-- p.229: Understanding CSS: Thinking inside the box (!!!)
+- p.229: Understanding CSS: Thinking inside the box
 - p.230-1: How CSS associates with HTML and affects their display
-- p.235: Linking your CSS file (vs. using a <style> tag)
+- p.235: Linking your CSS file (vs. using a \<style> tag)
 - pp.237-8: CSS selectors (with VERY handy reference chart)
 - p.239: How CSS rules cascade
 - p.240: Inheritance
