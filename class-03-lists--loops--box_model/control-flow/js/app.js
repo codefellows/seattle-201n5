@@ -7,7 +7,6 @@ p.152 	Structuring comparison operators
 p.156 	Logical operators
 */
 
-
 // p.160 	‘If’ statements
 // p.162 	‘If...else’ statements
 
@@ -22,8 +21,8 @@ if ('something is true') {
   // do that;
   // keep doing things;
 } else {
-  // do some other stuff
-  // and continue doing other stuff
+  // do some other stuff;
+  // and continue doing other stuff;
 }
 
 // Then there is IF and ELSE IF and ELSE...
@@ -34,10 +33,10 @@ if ('something is true') {
   // do that;
   // keep doing things;
 } else if ('this other thing is true') {
-  // do some other stuff
-  // and continue doing other stuff
+  // do some other stuff;
+  // and continue doing other stuff;
 } else {
-  // do this thing to catch leftovers
+  // do this thing to catch leftovers;
 }
 
 // Watch out for the most common error in IF statements...

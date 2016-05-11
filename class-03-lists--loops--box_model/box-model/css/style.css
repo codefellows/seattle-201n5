@@ -1,0 +1,35 @@
+* {
+  color: purple;
+  border: 1px solid black;
+}
+
+p {
+  color: red;
+  /*display: inline;*/
+  width: 50%;
+}
+
+ul {
+  color: green;
+}
+
+li {
+  color: blue;
+}
+
+.one {
+  font-family: Arial;
+}
+
+.two {
+  background-color: lightgray;
+}
+
+.three {
+  background-color: yellow;
+}
+
+img {
+  display: block;
+  margin: 0px auto;
+}
