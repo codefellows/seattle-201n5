@@ -32,8 +32,10 @@ Part 4 | Project Weeks!
 **Instructional Lecture**
 - Monday: 6:30pm to 9:30pm
 - Wednesday: 6:30pm to 9:30pm
+
 **Instructional Lab**
 - Saturday: 9am to 4pm (lunch 12pm-1pm)
+
 **Co-Work Lab**
 - Tuesday & Thursday: 6:30pm to 930pm
 
