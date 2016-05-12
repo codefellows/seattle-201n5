@@ -42,9 +42,9 @@ Note: Before starting these steps, make sure that both of your repositories are 
 
 - In its most basic sense, this is pretty simple and straightforward: 'wrap' the logic and variables for a given question with `function someFuncNameYouChoose() {` at the beginning, and add a closing curly brace `}` at the end. To make the function execute, just call it afterwards: `someFuncNameYouChoose();` After completing this step the game should behave exactly as it did before. **a-c-p**
 
-- For the five yes/no questions, your questions, the correct answers, and the two possible responses should be moved into separate arrays. (The same applies if you've added in any other pieces to the questions besides the most basic structure.) Once this is done you can replace that content in the functions by accessing the arrays. If you have already done this, but with a similar architecture, that is fine. **a-c-p**
+- Stretch goal #1: For the five yes/no questions, your questions, the correct answers, and the two possible responses should be moved into separate arrays. (The same applies if you've added in any other pieces to the questions besides the most basic structure.) Once this is done you can replace that content in the functions by accessing the arrays. If you have already done this, but with a similar architecture, that is fine. **a-c-p**
 
-- Stretch goal, depending upon time: If you have time, reduce the yes/no questions from five functions to one, and then use a 'for' loop to iterate through the arrays and call the function for each question.
+- Stretch goal #2: depending upon time: If you have time, reduce the yes/no questions from five functions to one, and then use a 'for' loop to iterate through the arrays and call the function for each question.
 
 - Update the README file: In the README file, add in the names of the Driver and Navigator and indicate that the code was worked on together. This is basic record-keeping so that you can keep up with how the code has been edited in a user-friendly format. **a-c-p**
 
