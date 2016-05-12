@@ -9,10 +9,8 @@
 //Function declaration vs. function call
 
 function woo() {    // This is the function declaration
-  // alert('Wooooooo!!!!');
+  alert('Wooooooo!!!!');
   console.log('Wooooooo!!!!');
-  // var eminemLi = document.getElementById('slim-shady');
-  // eminemLi.textContent = 'Wooooooo!!!!';
 }
 
 // woo(); // This is a function call
@@ -35,7 +33,7 @@ function clue(who, where, weapon) {
 }
 
 // Called with three arguments
-// clue('Benton', 'bathroom', 'CSS');
+// clue('Nadia', 'bathroom', 'CSS');
 
 // We can also call this in the console with different arguments.
 
@@ -43,9 +41,9 @@ function clue(who, where, weapon) {
 
 // Note that we can also pass in the values of externally declared variables when the function is called:
 
-// var murderer = 'Colonel Mustard';
-// var crimeScene = 'library';
-// var toolOfDeath = 'candlestick';
+var murderer = 'Colonel Mustard';
+var crimeScene = 'library';
+var toolOfDeath = 'candlestick';
 //
 // clue(murderer, crimeScene, toolOfDeath);
 
@@ -62,9 +60,10 @@ function mathsAreHard(numOne, numTwo, numThree) {
   var sum = numOne + numTwo + numThree;
   // console.log('The sum of these numbers is ' + sum);
   return sum;
+  console.log('IF this shows I will give Nadia $1000');
 }
 
-// mathsAreHard(2, 5, 9);
+// console.log(mathsAreHard(2, 5, 9));
 
 // Let's also inspect what each of the following gives us in the console: mathsAreHard, mathsAreHard(), and mathsAreHard(3, -5, Math.PI).
 
@@ -92,10 +91,10 @@ var dan = 'schwartz'; // GLOBAL
 
 function fire() {
   var katie = 'kayeon'; // LOCAL VARIABLE
-  console.log('global dan is ' + dan);
+  console.log('katie\'s korean name is ' + katie);
   dan = 'dieter';
-  console.log('actual dan is ' + dan);
-  return dan;
+  console.log('dan\'s new name is ' + dan);
+  // return dan;
 }
 
 function ice(snow) {  // PARAMETERS BEHAVE LIKE LOCALS
