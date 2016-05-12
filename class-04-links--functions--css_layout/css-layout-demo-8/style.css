@@ -1,0 +1,26 @@
+* {
+  border: 1px black solid;
+}
+
+.container {
+  position: relative;
+  border: 3px green solid;
+}
+
+nav {
+  position: absolute;
+  left: 0px;
+  width: 200px;
+  border: 3px red solid;
+}
+
+section {
+  /* position is static by default */
+  margin-left: 200px;
+  border: 3px yellow solid;
+}
+
+.grayback {
+  background-color: darkgray;
+  color: white;
+}
