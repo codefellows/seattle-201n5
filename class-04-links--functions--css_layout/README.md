@@ -1,36 +1,38 @@
 <a id="top"></a>
 # Today's Plan: Week 1, Thursday Lecture
 
-#### Announcements
-- Quiz 2 is due at 11:59p tonight (Thursday).
-- Quiz 3 will be published tomorrow (Friday) afternoon and will be due late Sunday night.
-- Keep in mind that the quizzes are open-book, so do use the resources you choose to figure out the answers: books, internetz, JS console in your browser, whatever. And remember that the quizzes are preparing you for the 301 entrance exam, which you will take on the last weekend of this class (right before Project Week).
-- Putting this here under Announcements as a prioritized reminder: we need to look at the Chrome Dev Tools device viewer today. And also caniuse.com.
+#### Quiz 2 is due at 11:59p tonight (Thursday).
 
-#### [Quiz & Code Review](#codereview) *[30 minutes]:*
-#### [Go over the assigned readings on CSS layout](#css-readings) *[60 minutes]:*
-#### [Go over the assigned readings on JS functions](#js-readings) *[60 minutes]:*
-#### [Look at the lab assignment, including PAIR PROGRAMMING](#lab) *[30 minutes]:*
+#### Quiz 3 will be published tomorrow (Friday) afternoon and will be due late Sunday night.
 
-# Readings
+- Announcements
+
+	- Keep in mind that the quizzes are open-book, so do use the resources you choose to figure out the answers: books, internetz, JS console in your browser, whatever. And remember that the quizzes are preparing you for the 301 entrance exam, which you will take on the last weekend of this class (right before Project Week).
+	- Putting this here under Announcements as a prioritized reminder: we need to look at the Chrome Dev Tools device viewer today. And also caniuse.com.
+
+- [Quiz & Code Review](#codereview) *[30 minutes]:*
+
+- [CSS layout](#css) *[60 minutes]:*
+
+- [JS functions](#js) *[60 minutes]:*
+
+- [Look at the lab assignment, including PAIR PROGRAMMING](#lab) *[30 minutes]:*
+
+## Readings
 
 - HTML Chapter 4: "Links"
 - CSS Chapter 15: "Layout"
 - JS Chapter 3: "Functions, Objects, and Methods" pp.85-99
 
----
-
 <a id="codereview"></a>
-### Quiz & Code Review
+## Quiz & Code Review
 
 We'll review Quiz 1 together, and then take the remaining time until 9:30 to look at someone's code and open the floor to questions and discussion.
 
 [-top-](#top)
 
----
-
-<a id="readings"></a>
-### Go over the assigned readings
+<a id="css"></a>
+## CSS layout (with code demo)
 
 **HTML Chapter 4: "Links"**
 
@@ -53,6 +55,13 @@ We'll review Quiz 1 together, and then take the remaining time until 9:30 to loo
 - p.387: Layout grids
 - p.391: CSS frameworks
 
+##### [learnlayout.com](http://learnlayout.com) will be our practical entry point into layout
+
+[-top-](#top)
+
+<a id="js"></a>
+## JS functions (with code demo)
+
 <a id="js-readings"></a>
 **JS Chapter 3: "Functions, Objects, and Methods" (pp.85-99)**
 
@@ -70,7 +79,7 @@ We'll review Quiz 1 together, and then take the remaining time until 9:30 to loo
 [-top-](#top)
 
 <a id="lab"></a>
-**Look at the lab assignment, including PAIR PROGRAMMING**
+## Look at the lab assignment, including PAIR PROGRAMMING
 
 Here's the basics of what you need to know about *pair programming*. This is a methodology for work in software development that is increasingly more popular and widespread (not only in development work, but also in interview processes), and we place a high value on training our students to pair program effectively. There's more details in the lab assignment.
 
