@@ -11,7 +11,9 @@
 - Discuss the weekly student survey [comments](student-comments.md) *[15 minutes]*
 
 - [Go over the domain modeling articles](#readings) *[15 minutes]*
+
 - [The Document Object Model (JS book, Ch.5)](#dom) *[30 minutes]*
+
 - [Objects (with Dan)](#objects) *[30 minutes]*
 
 *10-minute break*
