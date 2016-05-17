@@ -8,13 +8,13 @@ This first day of class is an all-day session with the students that is mostly l
 - [Verify Student Toolbelts](#toolbelt) *[30-45 minutes]*
 - [Unix & Git (with slides)](#ug) *[until lunch]*
 
-Lunch Break
+*Lunch Break*
 
 - [Set up a JavaScript linter](#linter) *[15 minutes after Unix/Git is finished]*
 - [Go over the assigned readings](#readings) *[90 minutes]*
 - [Code demo](#code) *[60 minutes]*
 
-# Readings
+## Readings
 
 - HTML Chapter 1: "Structure"
 - HTML Chapter 8: "Extra Markup"
@@ -22,9 +22,8 @@ Lunch Break
 - HTML Chapter 18: "Process & Design"
 - JS Chatper 1: "The ABC of Programming"
 
----
 <a id="kickoff"></a>
-### Kickoff!
+## Kickoff!
 
 [Slides: 1-first-day-orientation.pdf](slides/1-first-day-orientation.pdf)
 
@@ -32,10 +31,8 @@ This is the welcome and introduction to Code Fellows. Students will meet the cam
 
 [-top-](#top)
 
----
-
 <a id="academic"></a>
-### Academic Overview
+## Academic Overview
 
 [Slides: 2-academic-overview.pdf](slides/2-academic-overview.pdf)
 
@@ -43,10 +40,8 @@ The instructor will give an overview of the topics to be covered in this course 
 
 [-top-](#top)
 
----
-
 <a id="toolbelt"></a>
-### Verify Student Toolbelts
+## Verify Student Toolbelts
 
 By doing a few quick tests and exercises, as detailed below, ensure that students have functionality of all of the core pieces of their development environment:
 - Atom: type `atom` in the command line to verify that it opens properly. Command line tools may need to be installed.
@@ -57,10 +52,8 @@ By doing a few quick tests and exercises, as detailed below, ensure that student
 
 [-top-](#top)
 
----
-
 <a id="ug"></a>
-### Unix & Git
+## Unix & Git
 
 [Slides: 3-unix.pdf](slides/3-unix.pdf)
 [Slides: 4-git-intro.pdf](slides/4-git-intro.pdf)
@@ -70,18 +63,14 @@ Slides to introduce students to core concepts of file management from the comman
 
 [-top-](#top)
 
----
-
 <a id="linter"></a>
-### Set up a JavaScript linter
+## Set up a JavaScript linter
 Have students go to the command line and `apm install linter-eslint`. Have them open a new tab in their terminal ( which also shows them that this is something they can do!) and cd to their home directory. Then `atom .eslintrc` in their home directory and copypasta the contents of the .eslintrc file (send it through the class Slack channel, which is a nice verification of that functionality). Then go into the package settings in Atom and make sure that it is looking for that .eslintrc
 
 [-top-](#top)
 
----
-
 <a id="readings"></a>
-### Go over the assigned readings
+## Go over the assigned readings
 
 **HTML Chapter 1: "Structure"**
 
@@ -129,12 +118,12 @@ Have students go to the command line and `apm install linter-eslint`. Have them 
 - p.45 	Progressive enhancement
 - p.51 	JavaScript runs where it is found in the HTML
 
+**We also need to discuss the role of *pseudocode*, which is something the Duckett text does not cover very well.
+
 [-top-](#top)
 
----
-
 <a id="code"></a>
-### Live code
+## Live code
 
 This code demo is to help students be ready to complete the first assignment and also to show off some functionality of the REPL and Chrome Developer Tools. This demo should also reveal any lingering issues with student computer setups.
 
