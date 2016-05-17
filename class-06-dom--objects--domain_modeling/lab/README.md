@@ -55,7 +55,7 @@ What Jo wants on the data page (which is by far a bigger priority at the moment,
 
 Based on Jo's market analysis, here are the projected numbers for each location that will serve as a basis for the calculations you will present on the data page:
 
-| Location  | Min/Hr  | Max/Hr  | Cups/Cust  | Pounds/Cust  |
+| Location  | Min/Hr  | Max/Hr  | Cups/Cust  | To-Go Pounds/Cust  |
 |---|---|---|---|---|
 | Pike Place Market  | 14  | 35  | 1.2  | 0.34  |
 | Capitol Hill  | 12  | 28  | 3.2  | 0.03  |
