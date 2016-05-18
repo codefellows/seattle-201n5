@@ -30,7 +30,7 @@ var renderAllComments = function() {
 // +++++++++++++++++++++++++++++++++++++++++++++++++++++
 // This function handles the submission of comments
 function handleCommentSubmit(event) {
-  console.log(event);
+  // console.log(event);
   event.preventDefault(); //gotta have it. prevents page reload
 
   if (!event.target.says.value || !event.target.who.value) {
@@ -40,21 +40,17 @@ function handleCommentSubmit(event) {
   var commenter = event.target.who.value;
   var remark = event.target.says.value;
 
-  if (commenter === 'Dan') {
-    remark = '@$^#$%$^@#$%@';
-  }
-
-  if (commenter === 'Benton') {
-    remark = remark.toUpperCase();
-  }
-
-  if (commenter === 'Jonny') {
-    remark = 'Heeeeeeeere\'s Jonny!!!';
-  }
+  // if (commenter === 'Dan') {
+  //   remark = '@$^#$%$^@#$%@';
+  // }
+  //
+  // if (commenter === 'Benton') {
+  //   remark = remark.toUpperCase();
+  // }
 
   var newComment = new Comment(commenter, remark);
 
-  console.log('Comment by ' + event.target.who.value + ' at ' + Date());
+  // console.log('Comment by ' + event.target.who.value + ' at ' + Date());
 
   event.target.who.value = null;
   event.target.says.value = null;
