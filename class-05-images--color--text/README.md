@@ -1,35 +1,27 @@
 <a id="top"></a>
 # Today's Plan: Week 1, Friday Lecture
 
+#### Quiz 3 will be published tonight (Friday) and will be due late Sunday night.
+
 - Announcements
-- Quiz 3 will be published tonight (Friday) and will be due late Sunday night.
-- **Reminder:** Quizzes are open-book, so use the resources you choose to figure out the answers: books, internetz, JS console in your browser, whatever. And remember that the quizzes are preparing you for the 301 entrance exam, which you will take on the last weekend of this class (right before Project Week).
-- **Reminder:** weekly surveys will go out to students today. Your survey responses are very helpful and meaningful to us. Feedback is a gift.
-- Let's take a moment to talk about Memorial Day, because it affects us. It lands on the first day of Project Week. Basically, we can handle that day however we want.
+	- **Reminder:** Quizzes are open-book, so use the resources you choose to figure out the answers: books, internetz, JS console in your browser, whatever. And remember that the quizzes are preparing you for the 301 entrance exam, which you will take on the last weekend of this class (right before Project Week).
+	- **Reminder:** weekly surveys will go out to students today. Your survey responses are very helpful and meaningful to us. Feedback is a gift.
+	- Let's take a moment to talk about Memorial Day, because it affects us. It lands on the first day of Project Week. Basically, we can handle that day however we want.
 
-- [Announcements and Code Review](#codereview) *[45 minutes]*
+- Code Review *[45 minutes]*
 - [Go over assorted topics and the assigned readings ](#readings) *[75 minutes]*
-- [Lab Demo](#code) *[60 minutes]*
+- [Code demo for today's lab](#code) *[60 minutes]*
 
-# Readings
+## Readings
 
 - HTML Chapter 5: "Images"
 - CSS Chapter 11: "Color"
 - CSS Chapter 12: "Text"
 
----
-
-<a id="codereview"></a>
-### Code Review
-
-We'll do code reviews to begin class most days
-
 [-top-](#top)
 
----
-
 <a id="readings"></a>
-### Go over the assigned readings
+## Discuss readings and assorted other topics
 
 **Hodgpodge of topics to address:**
 - Our new GitHub issues tool!
@@ -69,9 +61,13 @@ We'll do code reviews to begin class most days
 
 [-top-](#top)
 
----
-
 <a id="code"></a>
-### Code demo for today's lab
+## Code demo for today's lab
+
+Today's lab is a 'one-off' lab, in that it is not directly connected to your weekly project.
+
+You'll be pair-programming again today, with a different partner than you had yesterday. The GitHub workflow today is different, too, and introduces the *upstream* concept. We need to spend a bit of time with it so that you understand what you are doing.
+
+The concepts covered in todays lab (functions that receive input and return output) will be very helpful for you in next week's project.
 
 [-top-](#top)
