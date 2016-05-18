@@ -14,12 +14,11 @@
 
 *15-minute break*
 
-- [Constructor functions](#code) *[90 minutes]*
+- [Constructor functions + lab overview](#code) *[90 minutes]*
 
 ## Readings
 
 - HTML Chapter 6: "Tables"
-
 
 [-top-](#top)
 
