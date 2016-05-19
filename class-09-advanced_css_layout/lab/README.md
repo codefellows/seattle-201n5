@@ -2,7 +2,7 @@
 
 Continue working on the functionality of your **data.html** page of you do not have it working 100% yet:
 
-- Two tables: one displaying the total coffee beans needed per hour/day for the individual kiosks locations and for the company as a whole.
+- Two tables: one displaying the total coffee beans needed per hour/day for the individual kiosks locations and the company as a whole, and a second table displaying baristas needed per hour/day for the individual kiosks locations and the company as a whole.
 
 - An input form where a new store location can be entered and will then render a new kiosk location to the data tables
 
