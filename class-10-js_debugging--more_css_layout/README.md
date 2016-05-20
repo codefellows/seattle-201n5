@@ -12,19 +12,17 @@
    - [Note Fellows](https://clee46.github.io/note-fellows)
    - [Equip](http://heyduckd.github.io/equip/)
 
-- [Code Review](#codereview) *[30 minutes]*
+- [Code Review (refactor Sam's solution)](#codereview) *[60 minutes]*
 
-- [JS Debugging ](#debugging) *[45 minutes]*
+- [JS Debugging ](#debugging) *[60 minutes]*
 
 *15-minute break*
 
-- [Flexbox](#flexbox) *[90 minutes]*
+- [CSS Layout](#layout) *[90 minutes]*
 
 ## Readings
 
 - JS book, Chapter 10: Error Handling & Debugging
-- article?
-- article?
 
 [-top-](#top)
 
@@ -71,9 +69,11 @@
 
 [-top-](#top)
 
-<a id="flexbox"></a>
+<a id="layout"></a>
 ## Flexbox
 
-Flexbox is a great "new" feature in CSS. It simplifies a lot of layout, but know that it is not a silver bullet for all challenges with layout. Ultimately you need to have command of the basics that we've already covered, and that takes time, attention, and lots of practice.
+We're going to continue with the Learn Layout tutorial, and be sure to [look at my notes](CSS-layout.md). We want to hit a variety of topics from a high level so that we have a sense of all of the CSS things that you need to learn.
+
+`flexbox` is a great "new" feature in CSS. It simplifies a lot of layout, but know that it is not a silver bullet for all challenges with layout. Ultimately you need to have command of the basics that we've already covered, and that takes time, attention, and lots of practice.
 
 [-top-](#top)
