@@ -1,6 +1,6 @@
 # Today's Plan: Week 2, Friday Lecture
 
-#### We will start today by reviewing Quiz 5.
+#### Reminder: Quiz 5 is due at 11:59pm tonight!!!
 
 #### Quiz 6 will be published this afternoon, will be due at 11:59 pm Sunday night.
 
@@ -12,9 +12,9 @@
    - [Note Fellows](https://clee46.github.io/note-fellows)
    - [Equip](http://heyduckd.github.io/equip/)
 
-- [Code Review (refactor Sam's solution)](#codereview) *[60 minutes]*
+- [Code Review (refactor Sam's solution)](#codereview) *[45 minutes]*
 
-- [JS Debugging ](#debugging) *[60 minutes]*
+- [JS Debugging ](#debugging) *[45 minutes]*
 
 *15-minute break*
 
