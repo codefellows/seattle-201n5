@@ -70,7 +70,7 @@
 [-top-](#top)
 
 <a id="layout"></a>
-## Flexbox
+## Layout
 
 We're going to continue with the Learn Layout tutorial, and be sure to [look at my notes](CSS-layout.md). We want to hit a variety of topics from a high level so that we have a sense of all of the CSS things that you need to learn.
 
