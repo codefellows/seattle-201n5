@@ -17,7 +17,7 @@
 
 - [301 Preview](#301) *[30 minutes]*
 
-- [Intro to iOS w/ instructors Michael Babiy and/or Adam Walraff](ios) *[30 minutes]*
+- [Intro to iOS w/ instructors Michael Babiy and/or Adam Walraff](ios) *[45 minutes starting at 10:00a]*
 
 *15 minute break*
 
