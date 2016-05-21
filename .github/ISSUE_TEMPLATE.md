@@ -1,20 +1,21 @@
-## When submitting a request for lab help, please include the following information:
+### What is the expected result?
+_ex: What are you trying to accomplish?_  
 
-1. What assignment are you working on?
 
-2. What is the unexpected outcome of your code?
-  - Please include any pointers, such as line numbers.
-  - Please include any error messages or other output associated with your issue.
-  - Please include any relevant description and code snippets (using Markdown Syntax for your code blocks).
+### What is the actual result?
+_ex: What are you seeing, or what is happening?_  
 
-``` javascript
-function foo() {
-  console.log(allTheThings);
-}
 
-foo();
+### If there is an error message, what is the error message?  
+_ex: Uncaught Reference Error: $ is not defined._
 
-// This is done by using 3x back-ticks around your code block
-```
+### What steps have you taken to address the problem?
 
-3. What is the expected outcome of your code?
+1. First I...
+1. Then I...
+
+
+## Please check these boxes _**after**_ clicking "Submit new issue":
+- [ ] I have entered my name and the problem as the title of this issue.
+- [ ] I have answered all four of the above questions, and have ensured that the **Preview** tab looks good.
+- [ ] I have not been able to work through the issue after 15 minutes.
