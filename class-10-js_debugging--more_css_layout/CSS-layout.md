@@ -207,6 +207,8 @@ As you'll see from the demos in the tutorial, `flexbox` is quite powerful and fl
 - Normal flow vs. relative
 - The basics of absolute, fixed, and float
 
+One more thing with `flexbox`: take a look at [Flexbox Froggy](http://flexboxfroggy.com)
+
 ---
 
 ### 19/19: CSS frameworks
