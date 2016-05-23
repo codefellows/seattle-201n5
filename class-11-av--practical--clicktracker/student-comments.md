@@ -10,7 +10,7 @@
 
 - The TAs are all so awesome. I find myself learning so much from just talking to them during labs. Nadia is amazingly patient when helping folks with problems. Pair programming works very well to learn about how to use git with small teams. I felt that the labs were also helpful in reinforcing material we read in the book or material covered in class.
 
-- Working with my classmates and TAs. Asking questions about stuff I didn't know.
+- sWorking with my classmates and TAs. Asking questions about stuff I didn't know.
 
 - TA Support has been excellent. They are really committed to helping the process of discovery without just giving you direct solutions.
 

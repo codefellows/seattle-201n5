@@ -4,7 +4,7 @@
 #### We will start today by reviewing Quizzes 5 and 6.
 
 - Announcements *[15 minutes]*
-  - Project Week is getting closer!
+  - Project Week is getting closer! Er. Mah. Gerd.
   - Thursday: First round of project pitches; remember, think *elevator pitches*.
   - Friday: Second round of project pitches & set project teams; lecture that day will cover the procedural and operation details you'll need to know
   - Let's talk about Memorial Day again, too.
