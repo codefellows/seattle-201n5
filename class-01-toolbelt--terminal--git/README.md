@@ -3,16 +3,14 @@
 
 This first day of class is an all-day session with the students that is mostly lecture.
 
-- [Kickoff! (with slides)](#kickoff) *[60 minutes]*
-- [Academic Overview (with slides)](#academic) *[30 minutes]*
-- [Verify Student Toolbelts](#toolbelt) *[30-45 minutes]*
-- [Unix & Git (with slides)](#ug) *[until lunch]*
+- [Kickoff! (with slides)](#kickoff)
+- [Academic Overview (with slides)](#academic)
+- [Verify Student Toolbelts](#toolbelt)
+- [Unix & Git (with slides)](#ug)
 
-*Lunch Break*
-
-- [Set up a JavaScript linter](#linter) *[15 minutes after Unix/Git is finished]*
-- [Go over the assigned readings](#readings) *[90 minutes]*
-- [Code demo](#code) *[60 minutes]*
+- [Set up a JavaScript linter](#linter)
+- [Go over the assigned readings](#readings)
+- [Code demo](#code)
 
 ## Readings
 

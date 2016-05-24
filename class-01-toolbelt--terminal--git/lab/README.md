@@ -6,7 +6,7 @@
 # Technical Requirements
 
 - You may do the work in the same HTML file that we used for our class demo today. Because the originals from class are saved in the class GitHub repo, there is no worry in overwriting them or need for saving an unnecessary extra copy.
-- Using a total of four JavaScript 'prompt' or 'confirm' statements along the lines of our class demo on Monday, have a user answer four questions.
+- Using a total of four JavaScript `prompt` or `confirm` statements along the lines of our class demo on Monday, have a user answer four questions.
 - The user's response to each question (input) should be stored in a separate variable. Name your variables carefully.
 - Using these responses, return an alert to the user (output) that concatenates their response into some kind of reply like we did in class.
 - Strive to have your alert for each question utilize the responses to all of the prior questions such that by the fourth question, your response would look something like, "Greetings, *Iggy* from *Ipanema*, I also like to eat *bananas* while on vacation in *Paris*."
