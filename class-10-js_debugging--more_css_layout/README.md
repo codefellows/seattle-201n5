@@ -1,4 +1,4 @@
-# Today's Plan: Week 2, Friday Lecture
+# Today's Plan: Class 10 Lecture
 
 #### Reminder: Quiz 5 is due at 11:59pm tonight!!!
 

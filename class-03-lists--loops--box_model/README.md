@@ -1,5 +1,5 @@
 <a id="top"></a>
-# Today's Plan: Week 1, Wednesday Lecture
+# Today's Plan: Class 03 Lecture
 
 #### Reminder: Quiz 1 is due at 11:59pm tonight
 

@@ -1,5 +1,5 @@
 <a id="top"></a>
-# Today's Plan: Week 1, Friday Lecture
+# Today's Plan: Class 05 Lecture
 
 #### Quiz 3 will be published tonight (Friday) and will be due late Sunday night.
 

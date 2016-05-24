@@ -1,5 +1,5 @@
 <a id="top"></a>
-# Today's Plan: Week 2, Wednesday Lecture
+# Today's Plan: Class 08 Lecture
 
 #### Reminder: Quiz 4 is due at 11:59pm tonight.
 

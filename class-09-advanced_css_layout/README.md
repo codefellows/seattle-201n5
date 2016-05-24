@@ -1,5 +1,5 @@
 <a id="top"></a>
-# Today's Plan: Week 2, Thursday Lecture
+# Today's Plan: Class 09 Lecture
 
 #### We will start today by reviewing Quiz 4.
 

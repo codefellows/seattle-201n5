@@ -1,5 +1,5 @@
 <a id="top"></a>
-# Today's Plan: Week 3, Wednesday Lecture
+# Today's Plan: Class 13 Lecture
 
 #### Reminder: Quiz 7 is due at 11:59pm tonight.
 
