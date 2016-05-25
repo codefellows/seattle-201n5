@@ -56,4 +56,15 @@ We'll continue with the chart demo from yesterday, adding in local storage. In a
 
 Let's hear the first round of project pitches! We'll keep track of them in this document.
 
+- Uma: Memory game with cards: start w subset facedown, open a few random, give user a few secs to look, close, then user recalls which were shown where. Track user progress over iterations. Degrees of difficulty involving # of cards and time see cards
+
+- John: SSI (Seattle Shadiness Index): muni data + crime data updated to the day and minute, map locations
+
+- Megan: Advanced OrcaCard Users tips and info; Calculator for monthly vs. daily; users leave tips; mobile-friendly (location driven)
+
+- George: Game: tern-based combat game; attack, defense, heal buttons, choose weapons/technique; increasing difficulty; visuals? canvas/CSS
+
+- Michael: Pleasant urban hiking; grade, traffic, shortest; Data viz of City/maps stuff; Speed/ distance/ traffic; How would a user interact? Investigate more
+
+
 [-top-](#top)
