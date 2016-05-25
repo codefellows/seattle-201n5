@@ -19,7 +19,9 @@ User stories typically take the form of, "As a <WHO>, I want <DESIRED FEATURE>, 
 - As an eventual jobseeker, I want to get practice in creating a portfolio page so that I can make myself appealing to potential employers.
 - As an eventual jobseeker, I would like for potential employers to quickly learn a few things about me, such as a short bio, my education, an overview of my job experience, and my goals.
 - As a fun-loving human being, I want to give the visitors to my profile page a guessing game that shows how fun-loving and interesting I am, and maybe include things about myself that would not ordinarily appear in a portfolio page.
+
 ----
+
 - As a developer, I want to use markup to structure my `index.html` page, so the layout is in the order I prefer, with effective use of the markup possibilities offered by HTML.
 - As a developer, I want to carefully design my scripts, so I can understand how to organize and write my code to achieve my goals in interactivity.
 - As a developer, I want to create a simple script for my `index.html` page using JavaScript, so that I can use the browser to send a response to the user.
