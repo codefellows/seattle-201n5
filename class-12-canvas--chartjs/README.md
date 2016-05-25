@@ -1,5 +1,5 @@
 <a id="top"></a>
-# Today's Plan: Week 3, Tuesday Lecture
+# Today's Plan: Class 12 Lecture
 
 #### Quiz 7 will be published this afternoon, and will be due tomorrow (Wednesday) night.
 

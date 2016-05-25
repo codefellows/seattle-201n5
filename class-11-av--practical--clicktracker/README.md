@@ -1,5 +1,5 @@
 <a id="top"></a>
-# Today's Plan: Week 3, Monday Lecture
+# Today's Plan: Class 11 Lecture
 
 #### We will start today by reviewing Quiz 6.
 

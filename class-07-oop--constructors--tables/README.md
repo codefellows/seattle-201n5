@@ -1,12 +1,11 @@
 <a id="top"></a>
-# Today's Plan: Week 2, Tuesday Lecture
+# Today's Plan: Class 07 Lecture
 
 #### We will start today by reviewing Quiz 3.
 
 #### Quiz 4 will be published this afternoon and will be due tomorrow (Wednesday) night.
 
 - Announcements
-  - Sam has 3 meetings today (noon, 3:30, and 4:30, plus, he'll need to go grab some lunch after that noon meeting is done), so that will affect his availability during lab this afternoon.
 
 - [Code Review](#codereview) *[30 minutes]*
 

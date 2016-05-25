@@ -1,5 +1,5 @@
 <a id="top"></a>
-# Today's Plan: Week 1, Thursday Lecture
+# Today's Plan: Class 04 Lecture
 
 #### Quiz 2 is due at 11:59p tonight (Thursday).
 
@@ -7,7 +7,7 @@
 
 - Announcements
 
-	- Keep in mind that the quizzes are open-book, so do use the resources you choose to figure out the answers: books, internetz, JS console in your browser, whatever. And remember that the quizzes are preparing you for the 301 entrance exam, which you will take on the last weekend of this class (right before Project Week).
+	- Keep in mind that the quizzes are open-book, so use the books, internetz, and JS console in your browser to figure out the answers. Remember that the quizzes are preparing you for the 301 entrance exam, which you will take on the last weekend of this class (right before Project Week).
 	- Putting this here under Announcements as a prioritized reminder: we need to look at the Chrome Dev Tools device viewer today. And also caniuse.com.
 
 - [Quiz & Code Review](#codereview) *[30 minutes]:*
@@ -81,13 +81,13 @@ We'll review Quiz 1 together, and then take the remaining time until 9:30 to loo
 <a id="lab"></a>
 ## Look at the lab assignment, including PAIR PROGRAMMING
 
-Here's the basics of what you need to know about *pair programming*. This is a methodology for work in software development that is increasingly more popular and widespread (not only in development work, but also in interview processes), and we place a high value on training our students to pair program effectively. There's more details in the lab assignment.
+Here are the basics of what you need to know about *pair programming*. This is an increasingly popular methodology for software development, both in the workplace and in interview processes, and we place a high value on training our students to pair program effectively. There are more details in the lab assignment.
 
 - In pair programming there are two developers working on a single body of code on a single computer.
-- One member of the pair is the Driver, and this person will be the one doing all of the actual typing work on the laptop.
+- One member of the pair is the Driver, and this person will be the one typing all of the code.
 - The other member of the pair is the Navigator, and this person will work with only their voice and their thoughts.
 - The Navigator does not touch the keyboard, nor does the Navigator work on their laptop "on the side". The Navigator is fully engaged with the work that the pair is doing, typically using at most a piece of scratch paper to sketch diagrams, take notes, or list ideas.
 - Again, **the Navigator does not touch the keyboard**, nor does the Navigator work on their laptop "on the side" except to perhaps to keep a copy of this assignment document open or to look up something needed to write the code, such as a reference page like MDN.
-- Under no circumstances does the Navigator work on any code on their laptop: for the pair programming process to be effective, both parties must be fully engaged on the code they're working on together.
+- Under no circumstances does the Navigator work on any code on their laptop; for the pair programming process to be effective, both parties must be fully engaged on the code they're working on together.
 
 [-top-](#top)
