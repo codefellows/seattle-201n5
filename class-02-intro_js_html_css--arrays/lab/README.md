@@ -7,7 +7,7 @@
 - Write a program that accepts user input and, based on that input, displays messages back to the user.
 - Note that as we progress through the week, we will be enhancing and extending this project, guided by new user stories that we'll add each day.
 
-### About Me HTML User Stories (MVP)
+### User Stories (MVP)
 
 ("MVP" = "Minimum Viable Product" which is the most basic successful functionality of our project. Any extensions, added features, and other enhancements that are optional at a given stage of the project fall under the category of "Stretch Goals.")
 
