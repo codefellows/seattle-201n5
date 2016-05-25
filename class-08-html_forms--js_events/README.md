@@ -6,7 +6,7 @@
 #### Quiz 5 will be published this afternoon, and will be due tomorrow (Thursday) night.
 
 - Announcements
-  - Today is the midpoint of class days! **ER.MAH.GERD.**
+  - Today is the midpoint of class days!
 
 - [Code Review](#codereview) *[30 minutes]*
 
@@ -53,12 +53,12 @@
 
 - p.148: Form controls
 - pp.149-50: How forms work
-- pp.151-62 : Form structure, overview of all input types
+- pp.151-62: Form structure, overview of all input types
 - p.163: Labelling form controls
 - p.164: \<fieldset\> and grouping form elements
-- pp.165-68 : HTML5 form features (validation, dates, email, URL search)
+- pp.165-68: HTML5 form features (validation, dates, email, URL search)
 
-**HTML Chapter 14: "Lists, Table & Forms" (CSS)**
+**HTML Chapter 14: "Lists, Tables & Forms" (CSS)**
 
 - p.333-36: Bullet point styles/positioning for lists
 - p.337-40: Table properties (VERY useful reference)

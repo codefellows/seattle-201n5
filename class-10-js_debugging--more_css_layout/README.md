@@ -6,7 +6,7 @@
 
 - Announcements?
 
-- Recent final projects? Here's links to a few:
+- Recent final projects? Here are links to a few:
    - [Slash Whooo?](http://wohlfea.github.io/cup-game)
    - [Echelon.JS](https://flegald.github.io/Echelon.JS)
    - [Note Fellows](https://clee46.github.io/note-fellows)
@@ -35,14 +35,14 @@
 
 - We're only going to focus on the most important parts of this chapter, and cook it down to the most basic things that will help you to keep moving forward when you code.
 
-- There's a lot of techniques you can use for debugging that are outlined in this chapter, and you should take time to experiment with all of them and see which ones work best with your cognitive workflow.
+- There are lots of debugging techniques outlined in this chapter, and you should take time to experiment with all of them and see which ones work best with your cognitive workflow.
 
-- Ultimately, you'll develop a favorite set of tools and trick that mesh with your cognitive processes, or you might have to fall in line with the standard debugging practices of an employer. There's many possible ways to do things, and none are really more 'right' or 'wrong' than any other in concept, but only in application and workflow efficiency.
+- Ultimately, you'll develop a favorite set of tools and trick that mesh with your cognitive processes, or you might have to fall in line with the standard debugging practices of an employer. There are many possible ways to do things, and none are really more 'right' or 'wrong' than any other in concept, but only in application and workflow efficiency.
 
-- General remark: error messages are only useful to you when you actually look into the console. So, if that's not a regular part of your workflow, make it one.
+- General remark: error messages are only useful to you when you actually look into the console. If that's not a regular part of your workflow, make it one.
 
 - It's important to learn how to treat error messages as valuable pieces of information, not just red garbage that appears in your console. Learning to decode error messages points you to not only where they are, but also the most likely part of that line to cause the problem. The more practice you get, the more you can rapidly interpret messages and debug effectively.
--
+
 - p.452: Order of execution (declarations vs. calls)
 - p.453: Execution contexts (context vs. scope)
 - p.454: The Stack
@@ -58,7 +58,7 @@
   - URIError
   - EvalError
 - p.463: Debugging workflow
-- p.472: More console methods *(Aside: console messages can get clunky, and you don't want to pollute production code with a lot of them, but they're very useful when constructing code. In particular, they provide a window into code that is executing in some local scope that cannot be inspected by hand in the globally-scoped console.)*
+- p.472: More console methods *(Aside: console messages can get clunky. You don't want to pollute production code with a lot of them, but they're very useful when constructing code. In particular, they provide a window into code that is executing in some local scope that cannot be inspected by hand in the globally-scoped console.)*
 - p.472: Grouping messages
 - p.475: console.assert()
 - p.476: Breakpoints
