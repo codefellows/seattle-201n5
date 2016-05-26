@@ -1,0 +1,20 @@
+.main-h1 {
+  /* This is how we select an element by class */
+  font-size: 48px;
+}
+
+#something {
+  /* This is how we select an element by ID */
+}
+
+p:hover {
+  color: pink;
+}
+
+a:link {
+
+}
+
+a:visited {
+  
+}

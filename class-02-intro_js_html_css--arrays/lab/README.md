@@ -13,7 +13,7 @@
 
 This is our first exposure to user stories. This is a device commonly used in software development to identify what the functionality and design of a product should be, by considering the interests and motivations of people with varied and multiple points of view. Our ability to write good user stories, and then realize them in code, is a direct outcome of our ability to show empathy for the needs of all parties who are connected with the project.
 
-User stories typically take the form of, "As a <WHO>, I want <DESIRED FEATURE>, so that <DESIRED EFFECT>" but do not necessarily need that exact structure.
+User stories typically take the form of, "As a \<WHO>, I want \<DESIRED FEATURE>, so that \<DESIRED EFFECT>" but do not necessarily need that exact structure.
 
 - As a student, I want to create an About Me page as a demonstration of my skills with HTML.
 - As an eventual jobseeker, I want to get practice in creating a portfolio page so that I can make myself appealing to potential employers.
@@ -28,7 +28,6 @@ User stories typically take the form of, "As a <WHO>, I want <DESIRED FEATURE>, 
 - As a developer, I want to receive and use the user's name in the opening to the guessing game, so that the program is personalized to their experience.
 - As a developer, I want to provide four questions to the user, so that they can guess the answers and get to know me.
 - As a developer, I want to notify the user after each question whether they were correct (or not!) in their answers.
-- As a developer, I want to be able to debug my code by using well structured console messages.
 - As a developer, I want to manage my code through an online version control system, so I have the ability to work with others, manage my revisions, and keep a thorough record of my progress.
 
 ### Technical Requirements
@@ -37,11 +36,11 @@ User stories typically take the form of, "As a <WHO>, I want <DESIRED FEATURE>, 
 - Name this repo about-me and clone it to the root level of your `~/CF/201` directory on your computer.
 - Add an `index.html` file, a `style.css` file, and an `app.js` file to your repo, and get them wired together.
 - HTML, CSS, and JavaScript are cleanly written with correct indentation and syntax.
-- Using a total of four JavaScript `prompt` or `confirm` statements along the lines of our class demo on Monday, have a user answer four questions.
+- Using a total of four JavaScript `prompt` statements along the lines of our class demo in class01, have a user answer four questions.
 - In the HTML portion of the file, place the four questions within a series of \<p> tags so that they are listed on the screen.
 - The questions in the guessing game must require yes/no answers, and user input must accept either y/n or yes/no responses, with either .toUpperCase() or .toLowerCase() used to validate the user input.
-- Useful and descriptive console.log messages are well written and correctly displaying to the browser console for each question of the guessing game.
 - Add, Commit, Push process is being followed; evident in GitHub that commits are made regularly, and with good commit messages.
+
 
 ### Supporting Information
 
