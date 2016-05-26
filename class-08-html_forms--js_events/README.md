@@ -1,11 +1,10 @@
 <a id="top"></a>
-# Today's Plan: Class 08 Lecture
+# Today's Plan: Week 2, Wednesday Lecture
 
 - Announcements
 - [Code Review](#codereview)
 - [Events](#events)
 - [HTML Forms](#forms)
-
 - Q&A and/or additional code review as time allows
 
 ## Readings
@@ -43,12 +42,12 @@
 
 - p.148: Form controls
 - pp.149-50: How forms work
-- pp.151-62: Form structure, overview of all input types
+- pp.151-62 : Form structure, overview of all input types
 - p.163: Labelling form controls
 - p.164: \<fieldset\> and grouping form elements
-- pp.165-68: HTML5 form features (validation, dates, email, URL search)
+- pp.165-68 : HTML5 form features (validation, dates, email, URL search)
 
-**HTML Chapter 14: "Lists, Tables & Forms" (CSS)**
+**HTML Chapter 14: "Lists, Table & Forms" (CSS)**
 
 - p.333-36: Bullet point styles/positioning for lists
 - p.337-40: Table properties (VERY useful reference)
