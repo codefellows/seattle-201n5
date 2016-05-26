@@ -1,15 +1,10 @@
 <a id="top"></a>
 # Today's Plan: Class 05 Lecture
 
-#### Quiz 3 will be published tonight (Friday) and will be due late Sunday night.
-
 - Announcements
-	- **Reminder:** Quizzes are open-book, so use the books, internetz, and JS console in your browser to figure out the answers. Remember that the quizzes are preparing you for the 301 entrance exam, which you will take on the last weekend of this class (right before Project Week).
-	- **Reminder:** weekly surveys will go out to students today. Your survey responses are very helpful and meaningful to us. Feedback is a gift.
-
-- Code Review *[45 minutes]*
-- [Go over assorted topics and the assigned readings ](#readings) *[75 minutes]*
-- [Code demo for today's lab](#code) *[60 minutes]*
+- Code Review
+- [Go over assorted topics and the assigned readings ](#readings)
+- [Code demo for today's lab](#code)
 
 ## Readings
 
@@ -23,7 +18,6 @@
 ## Discuss readings and assorted other topics
 
 **Hodgepodge of topics to address:**
-- Our new GitHub issues tool!
 - Two cool key commands for moving code and multiple cursors
 - Deployment
 - Array methods

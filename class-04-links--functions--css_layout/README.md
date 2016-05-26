@@ -1,22 +1,15 @@
 <a id="top"></a>
 # Today's Plan: Class 04 Lecture
 
-#### Quiz 2 is due at 11:59p tonight (Thursday).
-
-#### Quiz 3 will be published tomorrow (Friday) afternoon and will be due late Sunday night.
-
 - Announcements
 
-	- Keep in mind that the quizzes are open-book, so use the books, internetz, and JS console in your browser to figure out the answers. Remember that the quizzes are preparing you for the 301 entrance exam, which you will take on the last weekend of this class (right before Project Week).
-	- Putting this here under Announcements as a prioritized reminder: we need to look at the Chrome Dev Tools device viewer today. And also caniuse.com.
+- [Code Review](#codereview)
 
-- [Quiz & Code Review](#codereview) *[30 minutes]:*
+- [CSS layout](#css)
 
-- [CSS layout](#css) *[60 minutes]:*
+- [JS functions](#js)
 
-- [JS functions](#js) *[60 minutes]:*
-
-- [Look at the lab assignment, including PAIR PROGRAMMING](#lab) *[30 minutes]:*
+- [Look at the lab assignment, including PAIR PROGRAMMING](#lab)
 
 ## Readings
 
@@ -25,9 +18,7 @@
 - JS Chapter 3: "Functions, Objects, and Methods" pp.85-99
 
 <a id="codereview"></a>
-## Quiz & Code Review
-
-We'll review Quiz 1 together, and then take the remaining time until 9:30 to look at someone's code and open the floor to questions and discussion.
+## Code Review
 
 [-top-](#top)
 

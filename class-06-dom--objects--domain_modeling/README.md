@@ -1,23 +1,12 @@
 <a id="top"></a>
 # Today's Plan: Class 06 Lecture
 
-#### We will start today by reviewing Quiz 2, which we should have done on Friday.
-
-#### Quiz 3 is due tonight.
-
 - Announcements
-
-- Discuss the weekly student survey [comments](student-comments.md) *[15 minutes]*
-
-- [Go over the domain modeling articles](#readings) *[15 minutes]*
-
-- [The Document Object Model (JS book, Ch.5)](#dom) *[30 minutes]*
-
-- [Objects](#objects) *[30 minutes]*
-
-*10-minute break*
-
-- [Discussion on this week's project](#code) *[70 minutes]*
+- Discuss the weekly student survey [comments](student-comments.md)
+- [Go over the domain modeling articles](#readings)
+- [The Document Object Model (JS book, Ch.5)](#dom)
+- [Objects](#objects)
+- [Discussion on this week's project](#code)
 
 ## Readings
 
@@ -27,8 +16,6 @@
 - JS Chapter 5: "The Document Object Model"
 
 [-top-](#top)
-
-
 
 <a id="dom"></a>
 ## Go over the domain modeling articles
