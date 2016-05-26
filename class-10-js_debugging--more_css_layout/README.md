@@ -1,24 +1,15 @@
 # Today's Plan: Class 10 Lecture
 
-#### Reminder: Quiz 5 is due at 11:59pm tonight!!!
-
-#### Quiz 6 will be published this afternoon, will be due at 11:59 pm Sunday night.
-
 - Announcements?
-
 - Recent final projects? Here are links to a few:
    - [Slash Whooo?](http://wohlfea.github.io/cup-game)
    - [Echelon.JS](https://flegald.github.io/Echelon.JS)
    - [Note Fellows](https://clee46.github.io/note-fellows)
    - [Equip](http://heyduckd.github.io/equip/)
 
-- [Code Review (refactor Sam's solution)](#codereview) *[45 minutes]*
-
-- [JS Debugging ](#debugging) *[45 minutes]*
-
-*15-minute break*
-
-- [CSS Layout](#layout) *[90 minutes]*
+- [Code Review (refactor Sam's solution)](#codereview)
+- [JS Debugging ](#debugging)
+- [CSS Layout](#layout)
 
 ## Readings
 

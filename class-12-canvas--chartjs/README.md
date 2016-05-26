@@ -1,8 +1,6 @@
 <a id="top"></a>
 # Today's Plan: Class 12 Lecture
 
-#### Quiz 7 will be published this afternoon, and will be due tomorrow (Wednesday) night.
-
 - Announcements
   - Project Week is getting closer! Here are some more sample projects to look at:
     - [Sasquatch Dice](http://mmailman.github.io/dice-game/)
@@ -12,19 +10,11 @@
     - [Welcome to Seattle](http://peterbreen.github.io/welcome-to-seattle/)
     - [Budget Buddy](http://stefuhnee.github.io/budget-buddy/)
     - [Hacker Hangout](http://ckperez.github.io/hackerhangout/)
-  - Wednesday (5/25): First round of project pitches
-  - Thursday (5/26): Second round of project pitches & set project teams
-  - Monday (5/30): Memorial Day holiday
-  - Tues thru Thurs (5/31-6/2): Sam and TAs available (rotating basis) 8:00am-7:00pm
-  - Fri (6/3): Project Presentations! (TBA, probably late AM or early afternoon)
+  - Review Project Period Scheduling
 
-- [Code: Let's build yesterday's assignment](#code) *[60 minutes]*
-
-- [\<canvas> overview](#canvas) *[15 minutes]*
-
-*15 minute break*
-
-- [ChartJS demos](#chartjs) *[75 minutes]*
+- [Code: Let's build yesterday's assignment](#code)
+- [\<canvas> overview](#canvas)
+- [ChartJS demos](#chartjs)
  - Look at a pre-built demo to see how some things work
  - Build a demo live, from scratch
 
