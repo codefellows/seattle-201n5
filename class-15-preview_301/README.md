@@ -1,5 +1,5 @@
 <a id="top"></a>
-# Today's Plan: Week 3, Friday Lecture... LAST CLASS DAY!
+# Today's Plan: Class 15 Lecture... LAST CLASS DAY!
 
 #### We will start today by reviewing Quiz 8.
 

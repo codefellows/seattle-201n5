@@ -1,4 +1,7 @@
 # Assignment Overview: Lab for Class 3
+<!-- - As a developer, I want to be able to debug my code by using well structured console messages. -->
+<!-- - Useful and descriptive console.log messages are well written and correctly displaying to the browser console for each question of the guessing game. -->
+
 
 For this lab we will be adding a few things to the work we've done so far. Use the User Stories and the Technical Requirements to make a plan for how to proceed. Assume that all user stories from the previous lab carry over, except for the ones that are modified or are superseded here.
 

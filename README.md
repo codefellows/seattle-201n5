@@ -1,17 +1,17 @@
 # Code 201: Foundations of Software Development
 Welcome to seattle-201n4!
 
-**Instructors & TA's**
+**Instructors & TAs**
 
 *Instructor*: Scott Schmidt
 
-*TA's*
+*TAs*
 
 
 # Introduction
 Build a strong software development foundation and learn how to use HTML, CSS, JavaScript, and various libraries to create fully-functional web apps.
 
-Through studying computer science concepts, such as data structures and algorithms, and common development tools, including Atom, Git, and Terminal, you will learn the methods and tools of professional software developers.
+Through studying computer science concepts such as data structures and algorithms, and common development tools, including Atom, Git, and Terminal, you will learn the methods and tools of professional software developers.
 
 The general course schedule is:
 
@@ -34,7 +34,7 @@ Part 4 | Project Weeks!
 - Wednesday: 6:30pm to 9:30pm
 
 **Instructional Lab**
-- Saturday: 9am to 4pm (lunch 12pm-1pm)
+- Saturday: 9am to 6pm (lunch 12pm-1pm)
 
 **Co-Work Lab**
 - Tuesday & Thursday: 6:30pm to 930pm
@@ -56,9 +56,13 @@ We will observe the following holidays. Your instructor will review any scheduli
 Lecture Notes will be placed in each class' lecture-code subdirectory after they are presented.  
 Lecture Notes will be a markdown-formatted file in the class repository.
 
+## Video Lectures  
+
+The youtube playlist will be updated regularly with video lectures. You can access it [here](https://www.youtube.com/playlist?list=PLVngfM2hsbi-OY5KSuzz2VT7XGSnh9lRh)
+
 ## Assignments
 
-Lab-time code assignments follow each class time. You can find these assignments in the subdirectories of each class folder. Assignment content will very from day to day, depending on the topic. Some of the lab assignments will be pair programming assignments.
+Lab-time code assignments follow each lecture. You can find these assignments in the subdirectories of each class folder. Assignment content will vary from day to day, depending on the topic. Some of the lab assignments will be pair programming assignments.
 
 Instructions for completing and submitting the assignments can be found in the README files of the appropriate subdirectories.
 
@@ -78,11 +82,11 @@ If you haven't already, install [Atom](https://atom.io). If you have used an adv
 
 ## Install linter and linter-eslint Atom packages
 
-For this next part, you will have Atom's package manager **apm** install some packages. Go [here](https://atom.io/docs/v0.194.0/using-atom-atom-packages#command-line) to verify it's enabled. Once you have verified that apm commands will work, enter this on your Terminal:
+For this next part, you will use Atom's package manager **apm** to install some packages. Go [here](https://atom.io/docs/v0.194.0/using-atom-atom-packages#command-line) to verify it's enabled. Once you have verified that apm commands will work, enter this in your Terminal:
 
 `apm install linter linter-eslint`
 
-You should get two success messages while it installs the linter and linter-eslint packages.
+You should get two success messages once it installs the linter and linter-eslint packages.
 
 ### Verify the Atom packages installation
 Enter the following into your Terminal:

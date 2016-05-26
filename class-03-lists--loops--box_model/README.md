@@ -1,37 +1,48 @@
 <a id="top"></a>
-# Today's Plan: Week 1, Wednesday Lecture
+# Today's Plan: Class 03 Lecture
 
-#### Reminder: Quiz 1 is due at 11:59pm tonight
+- [Code Review & Follow-up](#codereview)
 
-#### Quiz 2 will be published after lab today and will be due at 11:59pm tomorrow night (Thursday 5/12)
+- [CSS Box Model](#box)
 
-- Announcements
-
-- [Code Review](#codereview) *[15 minutes]*
-
-- [JS Control Flow](#control) *[75 minutes]*
-
-- [CSS Box Model](#box) *[90 minutes]*
+- [JS Control Flow](#control)
 
 ## Readings
 
 - HTML Chapter 3: "Lists"
-- JS Chapter 4: "Decisions & Loops"
 - HTML Chapter 13: "Boxes" (CSS)
+- JS Chapter 4: "Decisions & Loops"
 
 We're not going to go over the chapter on HTML lists in class but feel free to ask questions. It's pretty easy. Here's what's in that chapter:
 
-**HTML Chapter 3: "Lists"**
+    **HTML Chapter 3: "Lists"**
 
-- p.65: Ordered/numbered lists
-- p.66: Unordered/bullet lists
-- p.67: Definition lists
-- p.68: Nested lists
+    - p.65: Ordered/numbered lists
+    - p.66: Unordered/bullet lists
+    - p.67: Definition lists
+    - p.68: Nested lists
 
 <a id="codereview"></a>
-## Code Review
+## Code Review & Follow-up
 
-Let's take about 15 minutes to do any Q&A and/or review from our code assignment from yesterday.
+1. Let's take about 15-30 minutes to do any Q&A and/or review from our code assignment from yesterday.
+2. Console.logs & Basic Debugging.
+3. Review Git/GitHub - Lets set up another repository for practice
+
+[-top-](#top)
+
+<a id="box"></a>
+## CSS Box Model (with code demo)
+
+**HTML Chapter 13: "Boxes" (CSS)**
+
+- p.303: Box width, height, overflow
+- p.307: Border, margin, & padding
+- p.308: Border width, style, & color
+- p.315: Centering content
+- p.317: Changing inline/block
+- p.318: Visibility
+- p.321: Additional border topics (border images, box shadow, border radius)
 
 [-top-](#top)
 
@@ -59,19 +70,5 @@ Let's take about 15 minutes to do any Q&A and/or review from our code assignment
 - p.176 	Using ‘while’ loops
 - p.177 	Using ‘do...while’ loops
 
-[-top-](#top)
-
-<a id="box"></a>
-## CSS Box Model (with code demo)
-
-**HTML Chapter 13: "Boxes" (CSS)**
-
-- p.303: Box width, height, overflow
-- p.307: Border, margin, & padding
-- p.308: Border width, style, & color
-- p.315: Centering content
-- p.317: Changing inline/block
-- p.318: Visibility
-- p.321: Additional border topics (border images, box shadow, border radius)
 
 [-top-](#top)

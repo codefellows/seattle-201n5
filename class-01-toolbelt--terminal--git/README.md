@@ -1,18 +1,16 @@
 <a id="top"></a>
-# Today's Plan: Week 1, Monday Lecture
+# Today's Plan: Class 01 Lecture
 
 This first day of class is an all-day session with the students that is mostly lecture.
 
-- [Kickoff! (with slides)](#kickoff) *[60 minutes]*
-- [Academic Overview (with slides)](#academic) *[30 minutes]*
-- [Verify Student Toolbelts](#toolbelt) *[30-45 minutes]*
-- [Unix & Git (with slides)](#ug) *[until lunch]*
+- [Kickoff! (with slides)](#kickoff)
+- [Academic Overview (with slides)](#academic)
+- [Verify Student Toolbelts](#toolbelt)
+- [Unix & Git (with slides)](#ug)
 
-*Lunch Break*
-
-- [Set up a JavaScript linter](#linter) *[15 minutes after Unix/Git is finished]*
-- [Go over the assigned readings](#readings) *[90 minutes]*
-- [Code demo](#code) *[60 minutes]*
+- [Set up a JavaScript linter](#linter)
+- [Go over the assigned readings](#readings)
+- [Code demo](#code)
 
 ## Readings
 
@@ -45,7 +43,7 @@ The instructor will give an overview of the topics to be covered in this course 
 
 By doing a few quick tests and exercises, as detailed below, ensure that students have functionality of all of the core pieces of their development environment:
 - Atom: type `atom` in the command line to verify that it opens properly. Command line tools may need to be installed.
-- Atom packages: Be sure that they have linter, minimap,and  open-in-browser installed.
+- Atom packages: Be sure that they have linter, minimap,and open-in-browser installed.
 - Chrome: how to open the console
 - Git: enter `which git` in the command line to verify installation
 - Directory structure: Have students set up a directory at ~/codefellows/201/ in which they will store their classwork. Go over directory structure in general; compare to GUI.
@@ -65,7 +63,7 @@ Slides to introduce students to core concepts of file management from the comman
 
 <a id="linter"></a>
 ## Set up a JavaScript linter
-Have students go to the command line and `apm install linter-eslint`. Have them open a new tab in their terminal ( which also shows them that this is something they can do!) and cd to their home directory. Then `atom .eslintrc` in their home directory and copypasta the contents of the .eslintrc file (send it through the class Slack channel, which is a nice verification of that functionality). Then go into the package settings in Atom and make sure that it is looking for that .eslintrc
+Have students go to the command line and `apm install linter-eslint`. Have them open a new tab in their terminal ( which also shows them that this is something they can do!) and cd to their home directory. Then `atom .eslintrc` in their home directory and copy-paste the contents of the .eslintrc file (send it through the class Slack channel, which is a nice verification of that functionality). Then go into the package settings in Atom and make sure that it is looking for that .eslintrc
 
 [-top-](#top)
 

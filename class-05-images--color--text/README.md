@@ -1,16 +1,10 @@
 <a id="top"></a>
-# Today's Plan: Week 1, Friday Lecture
-
-#### Quiz 3 will be published tonight (Friday) and will be due late Sunday night.
+# Today's Plan: Class 05 Lecture
 
 - Announcements
-	- **Reminder:** Quizzes are open-book, so use the resources you choose to figure out the answers: books, internetz, JS console in your browser, whatever. And remember that the quizzes are preparing you for the 301 entrance exam, which you will take on the last weekend of this class (right before Project Week).
-	- **Reminder:** weekly surveys will go out to students today. Your survey responses are very helpful and meaningful to us. Feedback is a gift.
-	- Let's take a moment to talk about Memorial Day, because it affects us. It lands on the first day of Project Week. Basically, we can handle that day however we want.
-
-- Code Review *[45 minutes]*
-- [Go over assorted topics and the assigned readings ](#readings) *[75 minutes]*
-- [Code demo for today's lab](#code) *[60 minutes]*
+- Code Review
+- [Go over assorted topics and the assigned readings ](#readings)
+- [Code demo for today's lab](#code)
 
 ## Readings
 
@@ -23,8 +17,7 @@
 <a id="readings"></a>
 ## Discuss readings and assorted other topics
 
-**Hodgpodge of topics to address:**
-- Our new GitHub issues tool!
+**Hodgepodge of topics to address:**
 - Two cool key commands for moving code and multiple cursors
 - Deployment
 - Array methods
@@ -64,7 +57,7 @@
 <a id="code"></a>
 ## Code demo for today's lab
 
-Today's lab is a 'one-off' lab, in that it is not directly connected to your weekly project.
+Today's lab is a 'one-off' assignment. It is not directly connected to your weekly project.
 
 You'll be pair-programming again today, with a different partner than you had yesterday. The GitHub workflow today is different, too, and introduces the *upstream* concept. We need to spend a bit of time with it so that you understand what you are doing.
 

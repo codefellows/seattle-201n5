@@ -10,14 +10,14 @@ One of them is a weekend project: put finishing touches on your About Me project
 
 ### Second Part: In lab today
 
-Today in lab you will create a new GitHub repo, and pair-program the solutions to some little code problems.
+Today in lab you will create a new GitHub repo and pair-program the solutions to some little code problems.
 
 **Be sure to follow instructions carefully.**
 
 Here are a couple of things to keep in mind:
 
 * Place no function calls in your code, unless inside of another function. Everything should be run by hand from the console. This is to give you additional practice using the console and practice efficient app-switching processes.
-* Create a new branch for each code problem, and merge each branch into *master* when the problem is completed. Do the problems in order. Don't forget to pull the new master branch from GitHub into your local master branch each time, before creating the branch for the next problem.
+* Create a new branch for each code problem and merge each branch into *master* when the problem is completed. Do the problems in order. Don't forget to pull the new master branch from GitHub into your local master branch each time, before creating the branch for the next problem.
 
 ---
 ### Create, fork, and clone a new GitHub repo named class-05-lab
@@ -34,6 +34,6 @@ Here are a couple of things to keep in mind:
 
 ---
 ### HTML and JS setup
-You are being given starter code for today, in the index.html and app.js files inside of this directory.
+You are being given starter code for today in the index.html and app.js files inside of this directory.
 
 Submission instructions are in the Canvas assignment.

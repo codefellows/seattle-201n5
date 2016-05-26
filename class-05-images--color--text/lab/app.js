@@ -7,11 +7,6 @@ Write a function called sum() that takes in two numbers as arguments and then re
 Test this function by hand in the console to get it working, and when you think it is finished, uncomment the call for the testSum() function below and check the console to see if the test passes.*/
 
 // Write your code here
-function sum(a,b){
-  var sumResult = a + b;
-  var sumMessage = 'The sum of ' + a + ' and ' + b + ' is ' + sumResult + '.';
-  return [sumResult, sumMessage];
-}
 
 // Here is the test for sum(); uncomment it to run it
 testSum(4, 7);
@@ -27,11 +22,6 @@ Write a function called multiply() that takes in two numbers as arguments and re
 Test this function by hand in the console to get it working, and when you think it is finished, uncomment the call for the testMultiply() function and see if the test passes.*/
 
 // Write your code here
-function multiply(a,b){
-  var prodResult = a * b;
-  var prodMessage = 'The product of ' + a + ' and ' + b + ' is ' + prodResult + '.';
-  return [prodResult, prodMessage];
-}
 
 // Here is the test for multiply(); uncomment it to run it
 testMultiply(4,7);
@@ -48,13 +38,6 @@ Fourth element: "The product of 4 and 7 and 5 is 140."
 Test this function by hand in the console to get it working, and when you think it is finished, uncomment the call for the testMultiply() function and see if the test passes.*/
 
 // Write your code here
-function sumAndMultiply(a,b,c){
-  var sumResult = a + b + c;
-  var prodResult = a * b * c;
-  var sumMessage = a + ' and ' + b + ' and ' + c + ' sum to ' + sumResult + '.';
-  var prodMessage = 'The product of ' + a + ' and ' + b + ' and ' + c + ' is ' + prodResult + '.';
-  return [sumResult, sumMessage, prodMessage];
-}
 
 // Here is the test for sumAndMultiply(); uncomment it to run it
 testSumAndMultiply(4,7,5);
@@ -72,17 +55,7 @@ Test this function by hand in the console to get it working, and when you think 
 // Write your code here
 testArray = [2,3,4];
 
-function sumArray(testArray){
-  var arraySum = 0; // easy to forget!!!
-  for (var i = 0; i < testArray.length; i++) {
-    arraySum += testArray[i];
-  }
-  sumMessage = testArray + ' was passed in as an array of numbers, and ' + arraySum + ' is their sum.';
-  return [arraySum, sumMessage];
-}
-
 // Here is the test for sumArray(); uncomment it to run it
-
 testSumArray(testArray);
 
 // Once you get the test passing, do an a-c-p cycle, synchronize the code between both GitHubs and both laptops, and swap Driver/Navigator roles. Don't forget to create a new branch for your work on the next question!
@@ -96,14 +69,6 @@ Write a function called multiplyArray() that takes an array of numbers as its ar
 Test this function by hand in the console to get it working, and when you think it is finished, uncomment the call for the testMultiplyArray() function and see if the test passes.*/
 
 // Write your code here
-function multiplyArray(testArray){
-  var arrayProd = 1; // easy to forget!!!
-  for (var i = 0; i < testArray.length; i++) {
-    arrayProd *= testArray[i];
-  }
-  prodMessage = 'The numbers ' + testArray + ' have a product of ' + arrayProd + '.';
-  return [arrayProd, prodMessage];
-}
 
 // Here is the test for multiplyArray(); uncomment it to run it
 testMultiplyArray(2,3,4);

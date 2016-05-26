@@ -1,21 +1,10 @@
 <a id="top"></a>
 # Today's Plan: Week 2, Wednesday Lecture
 
-#### Reminder: Quiz 4 is due at 11:59pm tonight.
-
-#### Quiz 5 will be published this afternoon, and will be due tomorrow (Thursday) night.
-
 - Announcements
-  - Today is the midpoint of class days! **ER.MAH.GERD.**
-
-- [Code Review](#codereview) *[30 minutes]*
-
-- [Events](#events) *[45 minutes]*
-
-*15-minute break*
-
-- [HTML Forms](#forms) *[90 minutes]*
-
+- [Code Review](#codereview)
+- [Events](#events)
+- [HTML Forms](#forms)
 - Q&A and/or additional code review as time allows
 
 ## Readings
