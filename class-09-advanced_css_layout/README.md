@@ -1,17 +1,10 @@
 <a id="top"></a>
 # Today's Plan: Class 09 Lecture
 
-#### We will start today by reviewing Quiz 4.
-
-#### Quiz 5 will be published this afternoon and is due at 11:59pm tomorrow (Friday) night.
-
 - Announcements
-
-- [Let's Make Git Great Again!](#git) *[45-60 minutes]*  
-
-- [Code Review of Sam's version of the weekly project](#codereview) *[45-60 minutes]*
-
-- [Layout](#layout) *[45-60 minutes]*
+- [Let's Make Git Great Again!](#git)
+- [Code Review of Sam's version of the weekly project](#codereview)
+- [Layout](#layout)
 
 ## Readings due today
 
