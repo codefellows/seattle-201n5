@@ -1,12 +1,6 @@
 <a id="top"></a>
 # Today's Plan: Class 03 Lecture
 
-#### Reminder: Quiz 1 is due at 11:59pm tonight
-
-#### Quiz 2 will be published after lab today and will be due at 11:59pm tomorrow night (Thursday 5/12)
-
-- Announcements
-
 - [Code Review & Follow-up](#codereview)
 
 - [CSS Box Model](#box)
