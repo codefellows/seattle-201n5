@@ -1,19 +1,10 @@
 <a id="top"></a>
 # Today's Plan: Class 07 Lecture
 
-#### We will start today by reviewing Quiz 3.
-
-#### Quiz 4 will be published this afternoon and will be due tomorrow (Wednesday) night.
-
 - Announcements
-
-- [Code Review](#codereview) *[30 minutes]*
-
-- [HTML Tables](#tables) *[45 minutes]*
-
-*15-minute break*
-
-- [Constructor functions + lab overview](#code) *[90 minutes]*
+- [Code Review](#codereview)
+- [HTML Tables](#tables)
+- [Constructor functions + lab overview](#code)
 
 ## Readings
 

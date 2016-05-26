@@ -7,7 +7,7 @@ Today you will be adding a form to your existing coffee kiosk project so that yo
 Here are some of the steps you'll need to take (not necessarily in this order):
 
 - Add the necessary HTML to create the input form.
-- Don't forget <fieldset>!
+- Don't forget \<fieldset>!
 - Use the constructor function as your guide to determine what input fields your form needs (hint: consider what is passed in when creating instances!)
 - Your JS will need an event listener, an event handler function, and a variable to facilitate DOM access to the form.
 - As we saw in class, the event handler should use the take the data from the input field, pass it into the constructor function, and create a new instance of a coffee kiosk that then appends to the table.

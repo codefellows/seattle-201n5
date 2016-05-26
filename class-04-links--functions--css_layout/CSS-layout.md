@@ -68,7 +68,7 @@ This page also introduces the `-webkit` and `-moz` prefixes to account for brows
 
  `position: absolute;` is a monster.
 
- `absolute` is the trickiest position value. `absolute behaves like fixed except relative to the nearest positioned ancestor instead of relative to the viewport. If an absolutely-positioned element has no positioned ancestors, it uses the document body, and still moves along with page scrolling. Remember, a "positioned" element is one whose position is anything except static.
+ `absolute` is the trickiest position value. `absolute` behaves like fixed except relative to the nearest positioned ancestor instead of relative to the viewport. If an absolutely-positioned element has no positioned ancestors, it uses the document body, and still moves along with page scrolling. Remember, a "positioned" element is one whose position is anything except static.
 
 ---
 
@@ -93,8 +93,6 @@ Note this declaration on the `img`: `margin: 0 0 1em 1em;` We need to unpack som
 ### 10/19: `clear`
 
 *"The clear property is important for controlling the behavior of floats."*
-
-
 
 ---
 
