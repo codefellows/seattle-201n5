@@ -51,14 +51,15 @@ Teamwork in Git is a whole other animal. Let's talk about it.
 
 Here are the pitches from yesterday. Any others?
 
-- Uma: Memory game with cards: start w subset facedown, open a few random, give user a few secs to look, close, then user recalls which were shown where. Track user progress over iterations. Degrees of difficulty involving # of cards and time see cards
+- UMA, COREY, BOB, JENNIFER Memory game with cards: start w subset facedown, open a few random, give user a few secs to look, close, then user recalls which were shown where. Track user progress over iterations. Degrees of difficulty involving # of cards and time see cards
 
-- John: SSI (Seattle Shadiness Index): muni data + crime data updated to the day and minute, map locations
+- JORGE, JED, JMEGAN, JP: Game: tern-based combat game; attack, defense, heal buttons, choose weapons/technique; increasing difficulty; visuals? canvas/CSS
 
-- Megan: Advanced OrcaCard Users tips and info; Calculator for monthly vs. daily; users leave tips; mobile-friendly (location driven)
+- BEARKITTY, JOHN, BISHOP, DYLAN: Happy Hour guide to plot a pub crawl that would be indexed by neighborhood, time, etc.
 
-- George: Game: tern-based combat game; attack, defense, heal buttons, choose weapons/technique; increasing difficulty; visuals? canvas/CSS
+- John: film distribution (YouTube vs Netflix vs Hulu) aggregation (Netflix for )
 
-- Michael: Pleasant urban hiking; grade, traffic, shortest; Data viz of City/maps stuff; Speed/ distance/ traffic; How would a user interact? Investigate more
+- Michael: Pleasant urban biking; grade, traffic, shortest; Data viz of City/maps stuff; Speed/ distance/ traffic; How would a user interact? Investigate more
+
 
 [-top-](#top)

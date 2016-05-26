@@ -11,7 +11,7 @@
 // TODO: specify a home planet and a language
 // you'll need to add parameters to this constructor
 
-// TODO: say hello prints out (console.log's) hello in the
+// TODO: sayHello() prints out (console.log's) hello in the
 // language of the speaker, but returns it in the language
 // of the listener (the sb parameter above).
 // use the 'hello' object at the beginning of this exercise
@@ -56,7 +56,6 @@ var nadia = new Klingon();
 
 assert((munir.sayHello(nadia)) === 'nuqneH',
   'Nadia should hear nuqneH');
-
 
 function assert(expression, failureMessage) {
   if (!expression) {
