@@ -4,15 +4,29 @@
 #### Quiz 7 will be published this afternoon, and will be due tomorrow (Wednesday) night.
 
 - Announcements
-  - Project Week is getting closer!
-  - Thursday: First round of project pitches
-  - Friday: Second round of project pitches & set project teams
+  - Project Week is getting closer! Here are some more sample projects to look at:
+    - [Sasquatch Dice](http://mmailman.github.io/dice-game/)
+    - [OnTrack](http://jeffgebhardt.github.io/on-track/)
+    - [Pong Fellows](https://shaallfar.github.io/PongFellows/)
+    - [Rock Paper Scissors](https://jmalesh.github.io/final-project/)
+    - [Welcome to Seattle](http://peterbreen.github.io/welcome-to-seattle/)
+    - [Budget Buddy](http://stefuhnee.github.io/budget-buddy/)
+    - [Hacker Hangout](http://ckperez.github.io/hackerhangout/)
+  - Wednesday (5/25): First round of project pitches
+  - Thursday (5/26): Second round of project pitches & set project teams
+  - Monday (5/30): Memorial Day holiday
+  - Tues thru Thurs (5/31-6/2): Sam and TAs available (rotating basis) 8:00am-7:00pm
+  - Fri (6/3): Project Presentations! (TBA, probably late AM or early afternoon)
 
-- [Code Review](#codereview) *[30 minutes]*
+- [Code: Let's build yesterday's assignment](#code) *[60 minutes]*
 
-- [\<canvas> demo](#canvas) *[45 minutes]*
+- [\<canvas> overview](#canvas) *[15 minutes]*
 
-- [ChartJS demo](#chartjs) *[90 minutes]*
+*15 minute break*
+
+- [ChartJS demos](#chartjs) *[75 minutes]*
+ - Look at a pre-built demo to see how some things work
+ - Build a demo live, from scratch
 
 ## Readings
 
@@ -36,7 +50,7 @@ Read the following articles on the Canvas API.
 
 [-top-](#top)
 
-<a id="code"></a>
+<a id="chartjs"></a>
 ## ChartJS (with code demo)
 
 **Read this article on ChartJS**
