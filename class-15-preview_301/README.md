@@ -12,21 +12,21 @@
   - We're in Project Week! Keep in mind that Monday is a holiday, so we will not be here and CF will (probably) not be open, but you and your team are free to set up any work processes that day that you choose to.
   - Remember that each team will be expected to do a 5-10 minute standup meeting at the beginning of each day. Those will begin on Tuesday morning. No set time, just when your team is assembled and the instructional staff are free.
 
-- [Code Review](#codereview) *[0-15 minutes]*
+- [Code Review](#codereview) *[40 minutes]*
 
 	- Any additional final versions of the Week 3 project to look at or ask questions about? Meow is the time.
 
-- [jQuery Preview](#jquery) *[15-30 minutes]*
-
-- [301 Preview](#301) *[30 minutes]*
-
 *5-10 minute break*
 
-- [Intro to iOS w/ instructors Michael Babiy and/or Adam Walraff](ios) *[45 minutes starting at 10:00a]*
+- [Intro to iOS w/ instructors Michael Babiy and/or Adam Walraff](ios) *[~45 minutes starting at 9:50a]*
 
 *10 minute break*
 
-- [Final Project Overview/Reminders/Discussion](#project) *[30-45 minutes]*
+- [jQuery Preview](#jquery) *[15 minutes]*
+
+- [301 Preview](#301) *[30 minutes]*
+
+- [Final Project Overview/Reminders/Discussion](#project) *[15-30 minutes]*
 
 ## Readings
 
