@@ -27,7 +27,7 @@ We're not going to go over the chapter on HTML lists in class but feel free to a
 
 1. Let's take about 15-30 minutes to do any Q&A and/or review from our code assignment from yesterday.
 2. Console.logs & Basic Debugging.
-3. Review Git/GitHub - Lets set up another repository for practice
+3. Review Git/GitHub - Let's set up another repository for practice
 
 [-top-](#top)
 
@@ -48,6 +48,8 @@ We're not going to go over the chapter on HTML lists in class but feel free to a
 
 <a id="control"></a>
 ## JS Control Flow
+
+1. Include pseudocode
 
 **JS Chapter 4: "Decisions & Loops"**
 
