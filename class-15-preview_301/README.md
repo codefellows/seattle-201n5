@@ -1,29 +1,32 @@
 <a id="top"></a>
 # Today's Plan: Week 3, Friday Lecture... LAST CLASS DAY!
 
-#### We will start today by reviewing Quiz 8.
+#### We will start today by reviewing Quiz 7.
 
-#### The Code 301 entrance exam will be published today. You will receive a link via email from Ed Republic, who administers that exam for Code Fellows. You may need to check your spam folder for the link. Please complete the exam by 11:59pm on Monday, even if you are not planning to take Code 301 right away.
+#### Reminder: Quiz 8 (only 5 questions!) is due tonight.
 
+#### The Code 301 entrance exam will be published today. We are testing out a new integration with Canvas this time around, such that the EdRepublic-served exam will be integrated right into Canvas. If you've seen some false alarms on the exam assignment being published, that's why, because there was some trial-and-error in getting it set up.
 
 - Announcements
   - Reminder: weekly surveys will go out to students today
+  - We're in Project Week! Keep in mind that Monday is a holiday, so we will not be here and CF will (probably) not be open, but you and your team are free to set up any work processes that day that you choose to.
+  - Remember that each team will be expected to do a 5-10 minute standup meeting at the beginning of each day. Those will begin on Tuesday morning. No set time, just when your team is assembled and the instructional staff are free.
 
 - [Code Review](#codereview) *[0-15 minutes]*
 
 	- Any additional final versions of the Week 3 project to look at or ask questions about? Meow is the time.
 
-- [jQuery Preview](#jquery) *[30 minutes]*
+- [jQuery Preview](#jquery) *[15-30 minutes]*
 
 - [301 Preview](#301) *[30 minutes]*
 
+*5-10 minute break*
+
 - [Intro to iOS w/ instructors Michael Babiy and/or Adam Walraff](ios) *[45 minutes starting at 10:00a]*
 
-*15 minute break*
+*10 minute break*
 
-- [Project Pitches](#pitches) *[30-45 minutes]*
-
-- [Final Project Overview](#project) *[30-45 minutes]*
+- [Final Project Overview/Reminders/Discussion](#project) *[30-45 minutes]*
 
 ## Readings
 
@@ -77,39 +80,48 @@ Preview of the topics in Code 301, and some over-arching 'how the web works' dis
 
 michael@codefellows.com for any followup questions!
 
-<a id="301"></a>
-## 301 Entrance Exam info
-
-What you need to know.
-
 <a id="pitches"></a>
 ## Project Teams
 
-### Team 1
-- Person 1
-- Person 2
-- Person 3
-- Person 4
+### Card Memory Game Thing-a-ma-Bob
+- Uma
+- Bob
+- Jennifer
+- Corey
 
-### Team 2
-- Person 1
-- Person 2
-- Person 3
-- Person 4
+### To Everything, Tern, Tern, Tern...
+- George
+- Megan
+- Jed
+- JP
 
-### Team 3
-- Person 1
-- Person 2
-- Person 3
-- Person 4
+### Pub Crawl
+- Michael Beerakat
+- John Schlitz
+- Dylun Derthetable
+- Michael Bishopfaced
 
 [-top-](#top)
 
 <a id="project"></a>
-## Final Project Overview
+## Final Project Overview, etc.
 
 - Go over the final project description
-- Discuss GitHub workflow in teams
-- GitHub Issues, Trello, waffle.io
+- What we need to see in your proposals this afternoon
+  - Every single little bit of planning you have
+  - Details on any resources you're planning on using (APIs, libraries, etc.)
+  - Any of these if you've thought about them: Image assets? Color palettes? Typographic ideas?
+  - Sketches of your pages
+  - Anything else you have
+- Discuss GitHub workflow in teams... again
+- GitHub Issues, Trello, waffl.io, etc.
+- Look at a few repos of student projects
+    - [Sasquatch Dice](http://github.com/mmailman/dice-game/)
+    - [OnTrack](http://github.com/jeffgebhardt/on-track/)
+    - [Pong Fellows](https://github.com/shaallfar/PongFellows/)
+    - [Rock Paper Scissors](https://github.com/jmalesh/final-project/)
+    - [Welcome to Seattle](http://github.com/peterbreen/welcome-to-seattle/)
+    - [Budget Buddy](http://github.com/stefuhnee/budget-buddy/)
+    - [Hacker Hangout](http://github.com/ckperez/hackerhangout/)
 
 [-top-](#top)
