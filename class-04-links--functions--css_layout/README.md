@@ -9,7 +9,7 @@
 
 - [JS functions](#js)
 
-- [Look at the lab assignment, including PAIR PROGRAMMING](#lab)
+- [Look at the lab assignment, including PAIR PROGRAMMING + forking](#lab)
 
 ## Readings
 

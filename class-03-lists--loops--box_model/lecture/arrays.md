@@ -35,7 +35,7 @@ var mixedArray = ['Scott', 'Schmidt', 10, true, 'luxurious'];
 2. assign a new value to an element with `=`
 
 ```javascript
-var myArray = ['a' 'b', 'c'];
+var myArray = ['a', 'b', 'c'];
 myArray[0] === 'a'
 
 var index = 2;
