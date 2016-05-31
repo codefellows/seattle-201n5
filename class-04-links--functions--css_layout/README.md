@@ -5,6 +5,8 @@
 
 - [Code Review](#codereview)
 
+- [Links](#links)
+
 - [CSS layout](#css)
 
 - [JS functions](#js)
@@ -22,9 +24,7 @@
 
 [-top-](#top)
 
-<a id="css"></a>
-## CSS layout (with code demo)
-
+<a id="links"></a>
 **HTML Chapter 4: "Links"**
 
 - p.77: Writing links (\<a\> tag structure)
@@ -35,7 +35,10 @@
 - p.85: Email links
 - p.86: Opening links in a new window
 
-<a id="css-readings"></a>
+[-top-](#top)
+
+<a id="css"></a>
+## CSS layout (with code demo)
 **HTML Chapter 15: "Layout"**
 
 - p.361: Key concepts in positioning (block/inline)

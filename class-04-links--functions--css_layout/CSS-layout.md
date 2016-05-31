@@ -5,13 +5,13 @@ A few things to keep in mind:
 
 - Width is everything. Height is an artifact of container and content.
 - Gotta know your pixels. This is a MUST.
-- Learning to eyeball pixels makes you much more efficicient in building layout.
+- Learning to eyeball pixels makes you much more efficient in building layout.
 
 ---
 
 ### 1/19: Introduction
 
-*"Having no layout whatsover is almost ok if all you want is one big column of content."*
+*"Having no layout whatsoever is almost ok if all you want is one big column of content."*
 
 ---
 
@@ -30,7 +30,7 @@ A few things to keep in mind:
 
 `margin: 0px auto;`
 
-*"Setting the `width` of a block element will prevent it from stretching out to the left/right edges of its container. Then, you can set the left and right margins to `auto` to horizontally center that element within its container. The element will take up the width you specify, then the remaining space will be split evenly between the two margins."*
+*"Setting the `width` of a block element will prevent it from stretching out to the left/right edges of its container. Then you can set the left and right margins to `auto` to horizontally center that element within its container. The element will take up the width you specify and the remaining space will be split evenly between the two margins."*
 
 It's all about the container (parent). As it often is with CSS layout.
 
@@ -46,7 +46,7 @@ This is our first exposure to setting a ***breakpoint***, where the behavior of 
 
 ### 5/19: The box model has a width problem...
 
-*"An element's border and padding will stretch out the element beyond the specified width. This page in the tutorial shows an example where two elements with the same width value end up different sizes in the result."*
+*"An element's border and padding will stretch out the element beyond the specified width. This page in the tutorial shows an example where two elements with the same width value end up having different sizes."*
 
 *"For generations, the solution to this problem has been extra math. CSS authors have always just written a smaller width value than what they wanted, subtracting out the padding and border. Thankfully, you don't have to do that anymore..."*
 
@@ -68,7 +68,7 @@ This page also introduces the `-webkit` and `-moz` prefixes to account for brows
 
  `position: absolute;` is a monster.
 
- `absolute` is the trickiest position value. `absolute` behaves like fixed except relative to the nearest positioned ancestor instead of relative to the viewport. If an absolutely-positioned element has no positioned ancestors, it uses the document body, and still moves along with page scrolling. Remember, a "positioned" element is one whose position is anything except static.
+ `absolute` is the trickiest position value. `absolute` behaves like fixed, except relative to the nearest positioned ancestor instead of relative to the viewport. If an absolutely-positioned element has no positioned ancestors, it uses the document body and still moves along with page scrolling. Remember, a "positioned" element is one whose position is anything except static.
 
 ---
 
