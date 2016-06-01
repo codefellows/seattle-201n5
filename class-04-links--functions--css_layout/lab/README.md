@@ -13,3 +13,9 @@
 - Stretch goal #1: For the five yes/no questions, your questions, the correct answers, and the two possible responses should be moved into separate arrays. (The same applies if you've added in any other pieces to the questions besides the most basic structure.) Once this is done you can replace that content in the functions by accessing the arrays. If you have already done this, but with a similar architecture, that is fine. **a-c-p**
 
 - Stretch goal #2: depending upon time: If you have time, reduce the yes/no questions from five functions to one, and then use a 'for' loop to iterate through the arrays and call the function for each question.
+
+### Technial Requirements
+
+- All work should be completed on Git branches and merged to master by using a Pull Request on GitHub. If you work on stretch goals, use separate branches for the function-wrapping goal and each of the stretch goals.
+
+- All logic for getting the username and running the quiz should be encapsulated in functions that are called to run the quiz. NO NAKED JS STATEMENTS except global variable declarations.
