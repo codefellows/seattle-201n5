@@ -14,8 +14,15 @@
 
 - Stretch goal #2: depending upon time: If you have time, reduce the yes/no questions from five functions to one, and then use a 'for' loop to iterate through the arrays and call the function for each question.
 
-### Technial Requirements
+### Technical Requirements
 
 - All work should be completed on Git branches and merged to master by using a Pull Request on GitHub. If you work on stretch goals, use separate branches for the function-wrapping goal and each of the stretch goals.
 
 - All logic for getting the username and running the quiz should be encapsulated in functions that are called to run the quiz. NO NAKED JS STATEMENTS except global variable declarations.
+
+### Submitting Your Assignment
+
+- Submit the link to your latest pull request (PR) on GitHub for this project.
+- Add a comment to this Canvas submission with answers to the following questions.
+  - How did this go, overall?
+  - What observations or questions do you have about what you've learned so far?
