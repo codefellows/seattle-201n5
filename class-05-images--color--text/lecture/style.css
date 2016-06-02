@@ -39,15 +39,6 @@ button:active {
   /*color: green;*/
 }
 
-#text-sizing {
-  display: flex;
-}
-
-#text-sizing article {
-  width: 50%;
-  padding-left: 1em;
-}
-
 #rem-vs-em {
   /*font-size: 12px;*/ /*parent to size the em class*/
 }
