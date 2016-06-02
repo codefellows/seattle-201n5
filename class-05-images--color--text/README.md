@@ -2,7 +2,6 @@
 # Today's Plan: Class 05 Lecture
 
 - Announcements
-- Code Review
 - [Go over assorted topics and the assigned readings ](#readings)
 - [Code demo for today's lab](#code)
 
@@ -59,8 +58,8 @@
 
 Today's lab is a 'one-off' assignment. It is not directly connected to your weekly project.
 
-You'll be pair-programming again today, with a different partner than you had yesterday. The GitHub workflow today is different, too, and introduces the *upstream* concept. We need to spend a bit of time with it so that you understand what you are doing.
+You'll be pair-programming today, with a different partner than you had yesterday. The GitHub workflow today is different, too, and introduces the *upstream* concept. We need to spend a bit of time with it so that you understand what you are doing.
 
-The concepts covered in todays lab (functions that receive input and return output) will be very helpful for you in next week's project.
+The concepts covered in today's lab (functions that receive input and return output) will be very helpful for you in next week's project.
 
 [-top-](#top)
