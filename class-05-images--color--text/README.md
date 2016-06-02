@@ -58,7 +58,7 @@
 
 Today's lab is a 'one-off' assignment. It is not directly connected to your weekly project.
 
-You'll be pair-programming today, with a different partner than you had yesterday. The GitHub workflow today is different, too, and introduces the *upstream* concept. We need to spend a bit of time with it so that you understand what you are doing.
+You'll be pair-programming today, so the GitHub workflow is different, too. We'll introduce the *upstream* concept. We need to spend a bit of time with it so that you understand what you are doing.
 
 The concepts covered in today's lab (functions that receive input and return output) will be very helpful for you in next week's project.
 
