@@ -15,7 +15,7 @@
  * Set a timer and take turns talking through your topics. Know how much time each segment will take.
 
 4. Overall presentation script:
-* 5 minutes - Intro/demo
-* 3 minutes - Technical challenge in the codez
-* 3 minutes per person (12 minutes total, more or less)
-* Q&A
+ * 5 minutes - Intro/demo
+ * 3 minutes - Technical challenge in the codez
+ * 3 minutes per person (12 minutes total, more or less)
+ * Q&A
