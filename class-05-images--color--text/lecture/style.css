@@ -36,11 +36,10 @@ button {
 
 button:active {
   background-color: green;
-  /*color: green;*/
 }
 
 #rem-vs-em {
-  /*font-size: 12px;*/ /*parent to size the em class*/
+  /*font-size: 12px;*/ /*parent to set default size for the em class*/
 }
 
 .em {
