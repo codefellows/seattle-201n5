@@ -2,7 +2,7 @@
 ## Presentation Prep
 
 1. Test your presentation:
- * As your teams now have MVP in place and are focusing more on layout, design, and stretch goals today, take a few minutes at some point to go down to The Easy and take a look at your app on the projector/screen setup. You'll be glad you did. It's often a moment of, "THAT'S not what we want it to look like!" We'll strive to have the instructor/TAs do this with each team on Thursday afternoon
+ * As your teams now have MVP in place and are focusing more on layout, design, and stretch goals today, take a few minutes at some point to go into a classroom and take a look at your app as it displays on a projector. You'll be glad you did. It's often a moment of, "THAT'S not what we want it to look like!" We'll strive to have the instructor/TAs do this with each team on Thursday afternoon
 
 2. Plan your presentation... have a script:
  * Who will give an intro, and tell us about the problem domain and your team's solution? In other words, MC?
