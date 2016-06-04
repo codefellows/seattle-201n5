@@ -1,4 +1,5 @@
 # Project Week, Day 2
+
 ## Development phase
 
 Now that your project is launched, here's how to organize the development efforts of your team:
@@ -15,6 +16,10 @@ Now that your project is launched, here's how to organize the development effort
  * Ask someone else on your team to review the code in your Pull Request.
  * If changes are required, make them on your branch and push them to GitHub for another review.
  * Once satisfied, let the reviewer merge your Pull Request. **Don't merge your own Pull Request.**
+ * Create new issues that'll take between 30 minutes - 2 hours to complete.
+ * Use labels and milestones as your team sees fit, but leave all newly created issues **unassigned**.
+ * Assign an issue to yourself when you commit to working on it.
+ * Once assigned, create a branch using a consistent and semantic naming scheme.
 
 This should be a huge day of productivity, with tons of code written and projects truly beginning to take shape. A few helpful safety tips:
 

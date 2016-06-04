@@ -1,6 +1,9 @@
 # Project Week, Day 1
 ### Groups & Projects
 
+### Final Project Rules and Process
+For your final project, your task is to work with a team to build a web site that simulates a real-world product, service, or game.
+
 **Rules:**
 
 Your team must adhere to the following requirements.
@@ -14,16 +17,15 @@ Your team must adhere to the following requirements.
 **Process:**
 
 Here's the process that we'll be using for project week.
-1. On the first day of project week, your team must submit a proposal to an instructor.
+1. On the first day of project week, by noon, your team must submit a proposal to the instructional staff.
 2. During project week, your team must work on-campus so we can help whenever your team is stuck.
 3. On the last day of project week, your team must present your project in front of the class.
 
-
-## Project proposals
+### Project proposals
 
 1. On the first day of project week, your team must submit a proposal to an instructor with the following information:
 
- - Your team's name
+ - Your team's name (if desired)
  - Your team's members
  - Your project's pitch. (What is the problem statement and what are the benefits of your solution? Read more about these [here](https://www.bidsketch.com/proposal-resources/proposal-templates/web-design-proposal-template).)
  - A diagram of relevant details from your project's domain model
