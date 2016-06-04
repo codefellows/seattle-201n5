@@ -18,7 +18,7 @@
 ## Readings
 
 - HTML/CSS Chapter 2: "Text"
-- HTML/CSS Chapter 10: "Introducing to CSS"
+- HTML/CSS Chapter 10: "Introducing CSS"
 - JS Chapter 2: "Basic JavaScript Instructions"
 
 <a id="readings"></a>
