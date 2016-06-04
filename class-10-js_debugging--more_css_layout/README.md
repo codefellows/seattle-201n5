@@ -1,6 +1,5 @@
 # Today's Plan: Class 10 Lecture
 
-- Announcements?
 - Recent final projects? Here are links to a few:
    - [Slash Whooo?](http://wohlfea.github.io/cup-game)
    - [Echelon.JS](https://flegald.github.io/Echelon.JS)

@@ -2,13 +2,11 @@
 # Today's Plan: Class 09 Lecture
 
 - Announcements
-- [Let's Make Git Great Again!](#git)
-- [Code Review of Sam's version of the weekly project](#codereview)
-- [Layout](#layout)
+- [Layout](#layout) [Dan]
 
 ## Readings due today
 
-- NONE! No more readings until next week!!!
+- NONE!
 
 <a id="layout"></a>
 ## Layout Demo 1

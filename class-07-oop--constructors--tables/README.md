@@ -2,9 +2,9 @@
 # Today's Plan: Class 07 Lecture
 
 - Announcements
-- [Code Review](#codereview)
-- [HTML Tables](#tables)
-- [Constructor functions + lab overview](#code)
+- [Code Review](#codereview) [Scott]
+- [HTML Tables](#tables) [Dan]
+- [Constructor functions + lab overview](#code) [Dan]
 
 ## Readings
 
