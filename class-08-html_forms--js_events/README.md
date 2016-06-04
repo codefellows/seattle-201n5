@@ -2,10 +2,10 @@
 # Today's Plan: Week 2, Wednesday Lecture
 
 - Announcements
-- [Code Review](#codereview)
-- [Events](#events)
-- [HTML Forms](#forms)
-- Q&A and/or additional code review as time allows
+- [Code Review](#codereview) [Scott]
+- [Events](#events) [Dan]
+- [HTML Forms](#forms) [Dan]
+- Q&A and/or additional code review as time allows [Dan/Scott]
 
 ## Readings
 
