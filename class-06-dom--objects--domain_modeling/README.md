@@ -10,7 +10,7 @@
 ## Readings
 
 - [Article on Domain Modeling](https://github.com/codefellows/domain_modeling#domain-modeling) (Sobol)
-- ["Understanding The Problem Domain Is The Hardest Part Of Programming"](http://simpleprogrammer.com/2013/07/15/understanding-the-problem-domain-is-the-hardest-part-of-programming/) (Sonmez)
+- ["Understanding the Problem Domain Is the Hardest Part of Programming"](http://simpleprogrammer.com/2013/07/15/understanding-the-problem-domain-is-the-hardest-part-of-programming/) (Sonmez)
 - JS Chapter 3: "Functions, Objects, and Methods" (pp.101-144)
 - JS Chapter 5: "The Document Object Model"
 
@@ -27,10 +27,10 @@
   - Model its attributes with a constructor function that defines and initializes properties.
   - Model its behaviors with small methods that focus on doing one job well.
   - Create instances using the `new` keyword followed by a call to a constructor function.
-  - Store the newly created object in a variable so you can access its properties and methods from outside.
+  - Store each newly created object in a variable so you can access its properties and methods from outside.
   - Use the this variable within methods so you can access the object's properties and methods from inside.
 
-**"Understanding The Problem Domain Is The Hardest Part Of Programming" (Sonmez)**
+**"Understanding the Problem Domain Is the Hardest Part of Programming" (Sonmez)**
 
 - Why problem domains are hard
 - Programming is easy if you understand the problem domain
@@ -44,7 +44,7 @@
 **JS Chapter 5: "The Document Object Model"**
 
 - p.186: The DOM tree is a model of a web page (diagram on p.187)
-- p.188: Overview of working with the DOM tree (accessing elements, setting values, create, attributes)
+- p.188: Overview of working with the DOM tree (accessing elements, setting values, creating elements, getting/setting attributes)
 - p.190: Caching DOM queries (i.e. variables)
 - p.192: Accessing elements
 - p.196: Nodelists: DOM queries that return more than one element
@@ -83,7 +83,7 @@
 
 We'll go over the basics of this week's assignment, address the problem domain, and discuss how it is going to evolve through the week.
 
-Ultimately, we'll look at a fully functional version of this project and talk about how to organize the steps that go into building it.
+Ultimately, we'll look at a fully functional version of the project and talk about how to organize the steps that go into building it.
 
 We'll also do a code demo to show some of the techniques that will be needed for lab today, including:
 - Working with images
