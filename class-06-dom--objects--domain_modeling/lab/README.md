@@ -1,16 +1,16 @@
 # Campfire Coffee - Lab Project for Week 2
 
-### Backstory
+### Background
 
-Your friend Jo Kuppa has come up with a new and original method for roasting coffee beans. Jo believes that she has a big moneymaker on her hands, even in this crowded Seattle coffee market. She's so sure of her idea that she's starting a business to market her product.
+Your friend Jo Kuppa has come up with a new and original method for roasting coffee beans. Jo believes that she has a big money maker on her hands, even in this crowded Seattle coffee market. She's so sure of her idea that she's starting a business to market her product.
 
-While camping one weekend, Jo noticed that the first cup of coffee from the morning campfire was uniquely wonderful and delicious. She thought about why that would be the case, and realized that it was the combination of the coffee aroma with the smoke from the campfire that created a distinctive flavor blend.
+While camping one weekend, Jo noticed that the first cup of coffee from the morning campfire was uniquely wonderful and delicious. She thought about why that might be, and realized that it was the combination of the coffee aroma with the smoke from the campfire that created a distinctive flavor blend.
 
-Jo sought to recreate that flavor back in civilization, and over time developed a process for roasting coffee beans over an open wood fire.  She also discovered that grinding the beans while they were still warm was the secret.
+Jo sought to recreate that flavor back in civilization, and over time developed a process for roasting coffee beans over an open wood fire.  She also discovered that grinding the beans while they were still warm was the key to getting the flavor she wanted.
 
 ### Problem Domain
 
-The challenge: how to provide freshly-roasted and still-warm beans to a chain of coffee kiosks every single day. Jo wants to optimize her profits by roasting and delivering just enough beans to meet the daily needs of each location while avoiding over-deliveries. After all, the beans need to be warm in order to capture the magic flavor of her special roasting process.
+The challenge: how to provide freshly-roasted and still-warm beans to a chain of coffee kiosks every single day. Jo wants to optimize her profits by roasting and delivering just enough beans to meet the daily needs of each location, while avoiding over-deliveries. After all, the beans need to be warm in order to capture the magic flavor of her special roasting process.
 
 Jo is also planning to sell beans by the pound, using special thermal vacuum packages that are filled and sealed with each order. This way, customers can take home beans from the exact same batch used to make the fresh coffee sold at the kiosks.
 
