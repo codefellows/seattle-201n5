@@ -101,16 +101,16 @@ a = 'cookie'; //this is legit in JS
 '10' > 1 -> true
 ```
 
-| Truthy  | Falsy   |
-| ------- | ------- |
-| true    | false   |
-| 1       | 0       |
-| 'mom'   | ''      |
-| 5 / 2   | '5' / 2 |
-|         | var a;  |
-| 'true'  |         |
-| 'false' |         |
-| '0'     |         |
+| Truthy  | Falsy     |
+| ------- | --------- |
+| true    | false     |
+| 1       | 0         |
+| 'mom'   | ''        |
+| 5 / 2   | 5 / 'two' |
+|         | var a;    |
+| 'true'  |           |
+| 'false' |           |
+| '0'     |           |
 
 Any existing value is considered truthy, so we can use a conditional to check whether something exists:
 
