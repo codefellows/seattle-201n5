@@ -6,15 +6,18 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-
     <main>
-      <table id="hard-coded">
+      <h2>This is my table</h2>
+      <table>
+        <thead>
           <tr>
             <th>Item</th>
             <th>Price</th>
             <th>Tax</th>
             <th>Total</th>
           </tr>
+        </thead>
+        <tbody>
           <tr>
             <td>Shoes</td>
             <td class="money">49.99</td>
@@ -33,17 +36,27 @@
             <td class="money">8.55</td>
             <td class="money">98.54</td>
           </tr>
+        </tbody>
+        <tfoot>
           <tr>
             <th>Total</th>
             <th class="money">148.97</th>
             <th class="money">10.35</th>
             <th class="money">163.12</th>
           </tr>
+        </tfoot>
       </table>
 
       <table id="generated-table">
+        <tr>
+          <th>Item</th>
+          <th>Price</th>
+          <th>Tax</th>
+          <th>Total</th>
+        </tr>
 
       </table>
+
     </main>
 
     <script type="text/javascript" src="app.js"></script>
