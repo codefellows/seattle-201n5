@@ -1,5 +1,5 @@
 <a id="top"></a>
-# Today's Plan: Week 2, Wednesday Lecture
+# Today's Plan: Class 08 Lecture
 
 - Announcements
 - [Code Review](#codereview) [Scott]
@@ -43,7 +43,7 @@
 - p.148: Form controls
 - pp.149-50: How forms work
 - pp.151-62 : Form structure, overview of all input types
-- p.163: Labelling form controls
+- p.163: Labeling form controls
 - p.164: \<fieldset\> and grouping form elements
 - pp.165-68 : HTML5 form features (validation, dates, email, URL search)
 
