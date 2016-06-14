@@ -10,12 +10,14 @@ var shoes = new Item('shoes', 49.99);
 var pantaloons = new Item('pantaloons', 89.99);
 
 var form = document.getElementById('form');
+var button = document.getElementById('fun-button');
+
 var table = document.getElementById('table');
 var tbody = document.getElementById('table-body');
 var tfoot = document.getElementsByTagName('tfoot')[0];
 
-function Item(n, price) {
-  this.name = n;
+function Item(name, price) {
+  this.name = name;
   this.price = price;
   this.tax = 0;
   this.total = 0;
@@ -120,6 +122,40 @@ function makeTotalRow() {
 
   tfoot.appendChild(row);
 }
+
+function handleButtonClick(event) {
+  console.log(event);
+  alert('The button was clicked. Now we are having fun');
+}
+
+function handleFormSubmit(event) {
+  event.preventDefault();
+  console.log(event);
+  console.log(event.target);
+
+  //get values
+  var name = event.target.name.value;
+  var price = parseFloat(event.target.price.value);
+
+  //instantiate a new Item object
+  var newItem = new Item(name, price);
+  //call its methods
+  newItem.doAllTheMethods();
+
+  //create a new table row
+  makeItemRow(newItem);
+
+  //update the total row
+  tfoot.innerHTML = '';
+  makeTotalRow();
+
+  //clear the form
+  event.target.name.value = '';
+  event.target.price.value = null;
+}
+
+form.addEventListener('submit', handleFormSubmit);
+button.addEventListener('click', handleButtonClick);
 
 updateObjects();
 makeAllItemRows();
