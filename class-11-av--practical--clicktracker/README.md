@@ -2,11 +2,10 @@
 # Today's Plan: Class 11 Lecture
 
 - Announcements
-  - Project Week is getting closer! Er. Mah. Gerd.
-- [Code Review](#codereview)
+- [Code Review](#codereview) [Dan]
   - Let's look at some of your Campfire Coffee and Chocolate Pizza projects! It's time to show off your work! And take questions, too.
-- [Discuss the assigned readings](#readings)
-- [Assignment overview & code demo](#code)
+- [Discuss the assigned readings](#readings) [Dan]
+- [Assignment overview & code demo](#code) [Scott]
 
 ## Readings
 

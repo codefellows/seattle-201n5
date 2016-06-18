@@ -1,8 +1,6 @@
 <a id="top"></a>
 # Today's Plan: Class 13 Lecture
 
-- Announcements
-  - Project Week is getting closer! Er. Mah. Gerd.
 - [Code Review](#codereview)
 - [UI & UX](#uiux)
 - [Local Storage](#ls)
