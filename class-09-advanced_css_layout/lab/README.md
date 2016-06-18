@@ -1,20 +1,56 @@
 # Class 9 - Lab Assignment
 
-Continue working on the functionality of your **data.html** page of you do not have it working 100% yet:
+## Chocolate Pizza!!! Create a webpage from a provided design comp
 
-- Two tables: one displaying the total coffee beans needed per hour/day for the individual kiosks locations and the company as a whole, and a second table displaying baristas needed per hour/day for the individual kiosks locations and the company as a whole.
+In lab today you will be building a single webpage based off of the provided design comp assets. This assignment is a lot of HTML and CSS, and not as much JS as we've been doing this week. In fact, you may choose to do this project with no JS at all, or just add some as a finishing touch.
 
-- An input form where a new store location can be entered and will then render a new kiosk location to the data tables
+This will be a pair-programming project, and you are free to set up whatever workflow you choose with your partner. There are multiple approaches that you can take:
 
-### Stretch Goals
+- Both of you work on one computer the whole time
+- For the initial "getting things entered" phase work independently, for instance one of you gets the images linked in and the layout roughed out, and the other gets all of the text typed in. If you take this approach, make it easier on yourself by segregating the two work processes into totally separate areas of the HTML so that you do not step on each other's toes and cause merge conflicts
+- Maybe you split the work by each of you building a different section of the page that you can then unify later.
+- Or maybe you use some other approach that you come up with on your own
 
-- Give your input form functionality to update the data for a location that is already in the table. This is going to require some additional pieces, such as:
-	- Some kind of `if` statement to test whether the input kiosk location name matches one that is already in the table (or other mechanism to indicate which location to update)
-	- The new input numbers need to be run through the calculation methods as with the original creation of the instances
-	- The individual rows will need `id` properties so that their values can be updated in place (or just build a mechanism to re-render the table but WITHOUT re-rolling the random numbers and changing the numbers for the rest of the locations)
+---
 
-- Style up the public facing page (**index.html**) to make it appealing to customers, including adding some swag, maybe?
+**GitHub Repository & Project Setup**
 
-- Make two additional pages:
-	- Mock up an order form (**order.html**) so that visitors to the website can order coffee beans and swag. That form would need to receive all of the things you'd expect on an order form: name, address, payment info, products to order, quantities, special instructions, and so on.
-	- A second 'private' page (**order-processing.html**) that shows a list of pending orders and the individual order details. The business owner can then process the orders by clicking a button next to the order that then moves that list item to a 'Filled Orders' list.
+Create a new repository for today called **chocolate-pizza**. If you're both going to be coding, have one user fork the other so that you can get some practice in your Git processes. Be sure to do frequent commits, and always do your work on branches. Before starting coding, think about a strategy for approaching this project. Before writing code, think about a practical order in which to do the work:
+- When should you focus on styling?
+- When should you make a decision about a layout scheme?
+- When should you just build out the structure of the HTML?
+- When you should you add JS?
+- How much time to allow for the Peter Griffin CSS tweaking?
+
+***PLAN YOUR WORK AND WORK YOUR PLAN***
+
+---
+
+**Assignment Overview**
+
+The assets (Base design comp and images) can be found in the adjacent ***lab-assets*** directory in this repo. Download these files and move the assets into your repo. The file "PREVIEW" contains an image of what you are striving to build in HTML and CSS, so be sure to open it up and keep it handy... ***but note that it is not for actual use on the page.*** You'll also be provided a paper copy of this image... it is suggested you use it to mark up and sketch out page structure and identify where the image assets need to be placed.
+
+All of the other image files are assets you will need to realize the design comp. It will be useful to make an inventory of them and where they will go on the page... but how you choose to manage and organize this inventory is up to your resourcefulness. It's best if you have a **plan** for how you'll manage this.
+
+Suggestion: set up your work directory like this:
+
+* index.html
+* style.css
+* app.js *(if you choose to use JS)*
+* img/   *(a directory that contains all of your image assets)*
+
+If you want to rename any of the image files, feel free to do so. The same goes for pretty much anything else you come up with as a way to do the work.
+
+---
+
+**Requirements**
+
+Use good HTML structure to scaffold this site. Reminders: Container elements (a box outside of your content box that might contain multiple content boxes) are very useful in managing layout. You will need to think about the relationship between parent and child / descendant elements as well as the order in which you place them in the HTML. Keep in mind that you can use *display: inline* in your CSS to force block elements, which would ordinarily stack, to sit side-by-side. Be thoughtful about your CSS layout strategy.
+
+Use CSS to style the page to reflect the full comp image provided as closely as possible. Use what knowledge you have at this point (and any resources you are able to understand and use effectively from other sources) to style your site as closely to the design comp as you can: fonts, colors, layout, all of it. You have the resources and are aware of online tools which will help you find useful solutions! On a project like this, something that finishes the basic task is the goal... it can always be refactored with better design and code later. There are no right or wrong answers... just do your best.
+
+OPTIONAL: Add some JavaScript functionality! Get creative, but make sure the style is complete before moving onto any additional features. Wouldn't it be neato if you could actually check those checkboxes?
+
+---
+
+Submit: You'll be committing regularly and working on branches for additional Git practice. Submit the link to your most recent pull request into the Canvas assignment.
