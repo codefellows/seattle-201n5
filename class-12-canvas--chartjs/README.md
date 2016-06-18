@@ -1,7 +1,7 @@
 <a id="top"></a>
 # Today's Plan: Class 12 Lecture
 
-- Announcements
+- Announcements [Scott]
   - Project Week is getting closer! Here are some more sample projects to look at:
     - [Sasquatch Dice](http://mmailman.github.io/dice-game/)
     - [OnTrack](http://jeffgebhardt.github.io/on-track/)
@@ -12,15 +12,13 @@
     - [Hacker Hangout](http://ckperez.github.io/hackerhangout/)
   - Review Project Period Scheduling
 
-- [Code: Let's build yesterday's assignment](#code)
-- [\<canvas> overview](#canvas)
-- [ChartJS demos](#chartjs)
- - Look at a pre-built demo to see how some things work
- - Build a demo live, from scratch
+- [Code Review](#code) [Scott]
+- [\<canvas> overview](#canvas) [Dan]
+- [ChartJS demos](#chartjs) [Dan]
 
 ## Readings
 
-- Read about the \<canvas\> API by looking at the MDN docs
+- Read about the \<canvas> API by looking at the MDN docs
 - [Read this article on ChartJS](http://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
 - [Look over the ChartJS documentation](http://www.chartjs.org/docs/)
 

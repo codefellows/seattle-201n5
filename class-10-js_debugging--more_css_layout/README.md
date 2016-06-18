@@ -1,14 +1,7 @@
 # Today's Plan: Class 10 Lecture
 
-- Recent final projects? Here are links to a few:
-   - [Slash Whooo?](http://wohlfea.github.io/cup-game)
-   - [Echelon.JS](https://flegald.github.io/Echelon.JS)
-   - [Note Fellows](https://clee46.github.io/note-fellows)
-   - [Equip](http://heyduckd.github.io/equip/)
-
-- [Code Review (refactor Sam's solution)](#codereview)
-- [JS Debugging ](#debugging)
-- [CSS Layout](#layout)
+- [Code Review](#codereview) [Dan]
+- [JS Debugging ](#debugging) [Dan]
 
 ## Readings
 
@@ -56,14 +49,5 @@
 - p.480: Handling exceptions with `try`, `catch`, and `finally`
 - p.484: Debugging tips [IMPORTANT!]
 - p.485: Common errors [IMPORTANT!]
-
-[-top-](#top)
-
-<a id="layout"></a>
-## Layout
-
-We're going to continue with the Learn Layout tutorial, and be sure to [look at my notes](CSS-layout.md). We want to hit a variety of topics from a high level so that we have a sense of all of the CSS things that you need to learn.
-
-`flexbox` is a great "new" feature in CSS. It simplifies a lot of layout, but know that it is not a silver bullet for all challenges with layout. Ultimately you need to have command of the basics that we've already covered, and that takes time, attention, and lots of practice.
 
 [-top-](#top)
