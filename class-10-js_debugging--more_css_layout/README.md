@@ -18,7 +18,7 @@
 
 - We're only going to focus on the most important parts of this chapter, and cook it down to the most basic things that will help you to keep moving forward when you code.
 
-- There are lots of debugging techniques outlined in this chapter, and you should take time to experiment with all of them and see which ones work best with your cognitive workflow.
+- There are lots of debugging techniques outlined in this chapter, and you should take time to experiment with all of them to see which ones work best with your cognitive workflow.
 
 - Ultimately, you'll develop a favorite set of tools and trick that mesh with your cognitive processes, or you might have to fall in line with the standard debugging practices of an employer. There are many possible ways to do things, and none are really more 'right' or 'wrong' than any other in concept, but only in application and workflow efficiency.
 
