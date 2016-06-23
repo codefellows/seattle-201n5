@@ -3,9 +3,9 @@
 
 - Announcements
 - [Code Review](#codereview) [Dan]
-  - Let's look at some of your Campfire Coffee and Chocolate Pizza projects! It's time to show off your work! And take questions, too.
 - [Discuss the assigned readings](#readings) [Dan]
 - [Assignment overview & code demo](#code) [Scott]
+  - Write user stories as groups
 
 ## Readings
 

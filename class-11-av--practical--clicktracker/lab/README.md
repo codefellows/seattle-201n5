@@ -25,25 +25,50 @@ You are also responsible for the look and feel of the app, so don't forget a cus
 
 # User Stories
 
-Part of your assignment today is to write your own user stories. Be sure to consider the multiple roles involved: the marketing research team, the developer, and the focus group participant who will be using the application. Try to write 4-5 user stories for each role. DO THIS STEP FIRST. The commit logs in your repo will have a first couple of commits for the scaffolding process, but next you should have a 'user stories' commit that is in place before any code is written.
+**USER**
 
-A wise student would take about an hour to work on the user stories and also draft a technical plan for the project (a detailied to-do list of things to make, step by step and tested at each stage) before getting into the code. That hour of thought and planning will make the code flow a lot faster. Give yourself a series of little problems to solve (rather an a ginormous thing that you just wade through and poke at).
+- As a user I want to have a heading that communicated effectively the purpose of this page
+- As a user i want to have the ability to see a series of 3 images so that i can vote on the ones i like.
+- As a user i want to have the ability to see three unique images on each ‘shuffle’ so that i’m seeing a fresh set of images each time.  
+- As a user i want to have the system maintain a count of my clicks on each image so that it can tally my votes.  
+- As a user i want to have the ability to see a warning message if i click in the ‘gutter’ between the images so i know i’ve not clicked on the image.
+- As a user i want to have the ability to, after 15 clicks, see a tally of my votes broken down by images and number of clicks per image so i can understand how i scored.
+- As a user I want be able to have a reset button at the end of the function.
 
-Set 'em up, and knock 'em down.
+**DEVELOPER**
 
-Plan your work, and work your plan.
+- As a developer we want to display 3 images at a time out of a pool of 14 images that are never duplicates.
+- As a developer I want to format the final results in a clean and efficient manner, so my user knows what they're looking at.
+- As a dev i need an object constructor so that i can use it to create an object for each image.  
+- As a developer i need to have a random number generator so that i can randomly choose images to display.  
+- As a developer i need to have an if/else to check that i’m not showing duplicate images on a single series so i don’t duplicate.  
+- As a dev i need to store votes and increment each vote as it is selected so i can reflect accurate votes to the user.
+- As a dev i need to have the vote counter for each image as a property within the image object.  
+- As a dev i need an event listener checking for a ‘click’ event on the slideshow so that i can store the vote and generate a new random series of images.  
+- As a dev i need a reset indicator that upon click will zero out the images and scores and start the game new so i can entertain the user again.
+- As a developer I was to have a style guide for other developers, so the design standards are documented
+- As a dev i need to display the image name and votes to the user at the end of the game so they know how they did.  
+- As a dev i need to make the game responsive so it can be viewed on different monitors.
 
-## Goals to complete by the start of class Tuesday morning
+
+## Technical Requirements
+ - New GitHub repo set up, and working on a feature branch
+ - Project scaffolding complete, with proper file and folder structure
+ - Images have been properly sized for project
+ - Object constructor implemented and used properly for creating objects
+ - Object literal implemented and used properly for managing the functionality of the app; proper use of methods and properties
+
+## Goals to complete by the start of next lecture
 
 - Create a new repo for this weekly project called **bus-mall** at the root level of your *~/CF/201* directory.
 - Scaffold your repo with the usual README, CSS, JS, and HTML files, plus a *img/* directory.
-- Retrieve the assets from the *assets/* directory in the *week-03* directory of our class repo and place them in your image directory.
-- Write your user stories as described above and place them in a file called *user-stories.md* in your repo. Utilize good Markdown style to make this document look nice.
+- Retrieve the assets from the *assets/* directory in the *class-11* directory of our class repo and place them in your image directory (don't forget to resize the images).
 - The thing you want to build today will select three random photos from the image directory and display them side-by-side-by-side in the browser window.
-- In addition, you'll want to be able to receive clicks on those displayed images, and track those clicks for each image. You'll also want to track how many times each image is displayed, for statistical purposes.
+- In addition, you'll want to be able to receive clicks on those displayed images, and track those clicks for each image.
 - Upon receiving a click, three new random images need to be automatically displayed.
 - To do this, you'll want a constructor function that creates an object associated with each image, and has properties for the name of the image, its filepath, the number of times it has been shown, and the number of times it has been clicked.
+- After 15 total clicks, disable any further vote functionality, and display a button for the user to view the results.
+- Upon clicking the 'view results' button, display a list showing each image name and it's corresponding tally of clicks.
+- Don't forget to publish the total amount of clicks (this will be used for a later assignment).
 
 **This is an individual assignment today, but you are free (heck, even encouraged) to collaborate with a classmate if you want. Just be sure that if you do, be sure to make note of that collaboration in your README file.**
-
-### *Remember to submit this link following the instructions in Canvas.*
