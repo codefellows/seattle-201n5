@@ -1,6 +1,6 @@
 # Assignment Overview: Lab for Class 14
 
-Lab today will be a practice run in working with your project team. You're going to create a single project (in a new GitHub repo, natch, with all team members set up as Collaborators) with two HTML docs and supporting CSS and JS docs as needed.
+Lab today will be a practice run in working with your project team. You're going to create a single project (in a new GitHub repo, with all team members set up as Collaborators) with two HTML docs and supporting CSS and JS docs as needed.
 
 One of the HTML docs is a design comp a la 'Chocoloate Pizza', based on the PREVIEW.tiff image in the adjoining assets directory.
 
