@@ -1,11 +1,11 @@
 # Code 201: Foundations of Software Development
-Welcome to seattle-201n4!
+Welcome to Seattle-201n5!
 
 **Instructors & TAs**
 
 *Instructor*: Scott Schmidt
-
-*TAs*
+*Instructor*: Dan Schwartz
+*Teaching Assistant*: Jonathan Daniel
 
 
 # Introduction
@@ -30,26 +30,25 @@ Part 4 | Project Weeks!
 **Room**: TBD
 
 **Instructional Lecture**
-- Monday: 6:30pm to 9:30pm
-- Wednesday: 6:30pm to 9:30pm
+- Tuesday: 6:30pm to 9:30pm
+- Thursday: 6:30pm to 9:30pm
 
 **Instructional Lab**
-- Saturday: 9am to 6pm (lunch 12pm-1pm)
+- Sunday: 9am to 6pm (lunch 12pm-1pm)
 
 **Co-Work Lab**
-- Tuesday & Thursday: 6:30pm to 930pm
+- Monday & Wednesday: 6:30pm to 930pm
 
 **Homework**: There are reading and coding assignments several times a week.
 
 **Duration**:
 Night courses meet Monday through Thursday, plus one weekend day. In weeks two through six, 2 weeknight classes will be unattended co-working lab time.
-* First class: May 23, 2016 (Monday)
-* Last class: July 16, 2016 (Saturday)
+* First class: July 18, 2016 (Monday)
+* Last class: September 11, 2016 (Sunday)
 
 **Holiday Notice**
 We will observe the following holidays. Your instructor will review any scheduling modifications necessary to complete the full duration of the course.
-* *Memorial Day: May 30, 2016 (Monday)*
-* *Independence Day: July 4, 2016 (Monday)*
+* *Memorial Day: September 5, 2016 (Monday)*
 
 ## Lecture Notes from class
 

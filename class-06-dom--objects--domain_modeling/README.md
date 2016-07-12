@@ -2,10 +2,10 @@
 # Today's Plan: Class 06 Lecture
 
 - Code Review [Scott]
-- [Go over the domain modeling articles](#readings) [Scott]
-- [The Document Object Model (JS book, Ch.5)](#dom) [Scott]
-- [Objects](#objects) [Dan]
-- [Discussion on this week's project](#code) [Dan]
+- [Go over the domain modeling articles](#readings)
+- [The Document Object Model (JS book, Ch.5)](#dom)
+- [Objects](#objects)
+- [Discussion on this week's project](#code)
 
 ## Readings
 
