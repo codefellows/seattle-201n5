@@ -53,11 +53,9 @@
 ## Live code
 
 In our code demo today we'll be doing the following:
-<!-- - Initializing a GitHub repo and working with Git commands
-- Reading through the lab assignment, translating it into a to-do list, and fulfilling some technical components such as:
-  1. Creating a basic scaffold for a code project
-  2. Utilizing `if/else` statements to handle conditional logic
-  3. Adding some basic input validation
-  4. Utilizing good Git processes including a-c-p cycles -->
+- Initializing a GitHub repo and working with Git commands
+- Separation of concerns
+- Introduction to CSS
+- JavasScript - Data Types, Arrays, Operators
 
 [-top-](#top)
