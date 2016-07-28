@@ -32,14 +32,13 @@ User stories typically take the form of, "As a \<WHO>, I want \<DESIRED FEATURE>
 
 ### Technical Requirements
 
-- A new Github repo will be initialized for this assignment (with a README file written in Markdown), and cloned to your local machine.
-- Name this repo about-me and clone it to the root level of your `~/CF/201` directory on your computer.
-- Add an `index.html` file, a `style.css` file, and an `app.js` file to your repo, and get them wired together.
-- HTML, CSS, and JavaScript are cleanly written with correct indentation and syntax.
+- A new Git repo will be initialized for this assignment (with a README file written in Markdown).
+- Add an `index.html` file, and your basic HTML scaffold content, and then git add and commit your 'First Commit'.
+- HTML and JavaScript are cleanly written with correct indentation and syntax.
 - Using a total of four JavaScript `prompt` statements along the lines of our class demo in class01, have a user answer four questions.
 - In the HTML portion of the file, place the four questions within a series of \<p> tags so that they are listed on the screen.
 - The questions in the guessing game must require yes/no answers, and user input must accept either y/n or yes/no responses, with either .toUpperCase() or .toLowerCase() used to validate the user input.
-- Add, Commit, Push process is being followed; evident in GitHub that commits are made regularly, and with good commit messages.
+- Add, Commit process is being followed, and that commits are made regularly, and with good commit messages.
 
 
 ### Supporting Information
@@ -56,8 +55,6 @@ User stories typically take the form of, "As a \<WHO>, I want \<DESIRED FEATURE>
 
 - `git commit -m 'Hello'`   Snapshot the tracked changes in current working directory; with message
 
-- `git push origin master`  Push local commits to GitHub
-
-# Add, Commit, Push (ACP): Learn it. Know it. Live it.
+# Add, Commit (AC): Learn it. Know it. Live it. (We'll add to it soon!)
 
 ### *Remember to submit a link in the corresponding Canvas assignment for today*
