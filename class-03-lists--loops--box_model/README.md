@@ -2,9 +2,8 @@
 # Today's Plan: Class 03 Lecture
 
 - [Code Review & Follow-up](#codereview)
-
+- GitHub Branches
 - [CSS Box Model](#box)
-
 - [JS Control Flow](#control)
 
 ## Readings
