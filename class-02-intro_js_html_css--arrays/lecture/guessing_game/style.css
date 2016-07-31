@@ -1,0 +1,30 @@
+body {
+  /* select the body element and apply to all descending content */
+  font-family: fantasy;
+  color: pink;
+  background-color: orange;
+}
+
+.monkey {
+  /* Applies to only element(s) which have the class of 'monkey' */
+  color: purple;
+}
+
+#banana {
+  /* Applies to only element with an ID of 'banana'; should only be one instance */
+  font-size: 24px;
+  text-align: center;
+}
+
+section p {
+  /* Applies to any paragraph elements which are descendants of a section */
+}
+
+section > p {
+  /* Applies to any paragraph elements which are direct children of a section */
+}
+
+* {
+  /* Applies to ALL / Universal selector */
+  /* Use sparingly... */
+}

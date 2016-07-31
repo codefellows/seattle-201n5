@@ -56,6 +56,6 @@ In our code demo today we'll be doing the following:
 - Initializing a GitHub repo and working with Git commands
 - Separation of concerns
 - Introduction to CSS
-- JavasScript - Data Types, Arrays, Operators
+- JavaScript - Data Types, Arrays, Operators
 
 [-top-](#top)
