@@ -1,6 +1,6 @@
 # Assignment Overview: Lab for Class 5
 
-Today will be your first exercise in pair programming.
+Today will be another exercise in pair programming, and you'll be polishing and deploying your Guessing Game to GitHub Pages.
 
 ### Pair Programming Basics
 
@@ -41,3 +41,16 @@ Here are a couple of things to keep in mind:
 You are being given starter code for today in the index.html and app.js files inside of this directory.
 
 Submission instructions are in the Canvas assignment.
+
+
+### Deployment of Guessing Game
+
+We'll be deploying our finished About Me projects to GitHub Pages. This will make them real, live websites that people can visit. The process is simple:
+
+- Finish all technical requirements and any other tweaks you want to make.
+- Add-commit-push your working branch.
+- Create a PR on GitHub and merge your final changes to the master branch.
+- Pull master in your terminal so you have the final product saved to your local master branch.
+- Checkout a new `gh-pages` branch. It must have the exact name `gh-pages`
+- To deploy your site, push the `gh-pages` to GH.
+- Verify that deployment was successful: go to your repo on GitHub and open the settings tab. Look for the GitHub Pages section, where you should see a message saying `Your site is published at http://<username>.github.io/<repo-name>` Follow that link and play through your game. Everything should be working correctly. If some part of your deployed page doesn't work, look for console messages or other errors, or consult an instructor.

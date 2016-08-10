@@ -4,8 +4,7 @@ Welcome to Seattle-201n5!
 **Instructors & TAs**
 
 *Instructor*: Scott Schmidt
-*Instructor*: Dan Schwartz
-*Teaching Assistant*: Jonathan Daniel
+*Teaching Assistant*: Dan Schwartz
 
 
 # Introduction
