@@ -4,7 +4,7 @@
 - Code Review [Scott]
 - [Go over the domain modeling articles](#readings)
 - [The Document Object Model (JS book, Ch.5)](#dom)
-- [Objects](#objects)
+- [Objects and Methods](#objects)
 - [Discussion on this week's project](#code)
 
 ## Readings
