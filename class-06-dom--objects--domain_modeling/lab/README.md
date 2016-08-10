@@ -6,7 +6,7 @@ Your friend Jo Kuppa has come up with a new and original method for roasting cof
 
 While camping one weekend, Jo noticed that the first cup of coffee from the morning campfire was uniquely wonderful and delicious. She thought about why that might be, and realized that it was the combination of the coffee aroma with the smoke from the campfire that created a distinctive flavor blend.
 
-Jo sought to recreate that flavor back in civilization, and over time developed a process for roasting coffee beans over an open wood fire.  She also discovered that grinding the beans while they were still warm was the key to getting the flavor she wanted.
+Jo sought to recreate that flavor back in civilization, and over time developed a process for roasting coffee beans over an open wood fire. She also discovered that grinding the beans while they were still warm was the key to getting the flavor she wanted.
 
 ### Problem Domain
 
@@ -55,7 +55,7 @@ What Jo wants on the data page (which is by far a bigger priority at the moment,
 
 Based on Jo's market analysis, here are the projected numbers for each location that will serve as a basis for the calculations you will present on the data page:
 
-| Location  | Min Customers/Hr  | Max Customers/Hr  | Cups/Cust  | To-Go Pounds/Cust  |
+| Location  | Min Customers/Hr  | Max Customers/Hr  | Average Cups/Cust  | Average To-Go Pounds/Cust  |
 |---|---|---|---|---|
 | Pike Place Market  | 14  | 35  | 1.2  | 0.34  |
 | Capitol Hill  | 12  | 28  | 3.2  | 0.03  |
@@ -68,7 +68,7 @@ You'll want to calculate and store the following values:
 - A random number of customers for each hour of operation that falls between the minimum and maximum hourly boundaries
 - The projected cups sold per hour at each location (based on the rate of cups/customer), plus daily totals for each location and the company as a whole
 - The projected pounds sold per hour at each location (based on the rate of to-go pounds/customer), plus daily totals for each location and the company as a whole
-- The total amount of beans needed to make cups and fulfill to-go bean orders - hourly, daily, and companywide totals
+- The total amount of beans needed to make cups (remember: 1 pound of beans makes 16 cups) and fulfill to-go bean orders - hourly, daily, and companywide totals
 - The number of employees she will need at each location, each hour. Assume that each customer will require an average of two minutes of a single employee's time. This number needs to be rounded up to the nearest integer since it requires, for instance, 5 people to adequately do the work of 4.2 people.
 
 ### Format of Output

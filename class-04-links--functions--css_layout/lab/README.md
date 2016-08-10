@@ -10,12 +10,7 @@ Today will be your first exercise in pair programming.
 
 ### General Workflow for this Assignment
 
-Today in lab you will create a new GitHub repo and pair-program the solutions to some little code problems.
-
 **Be sure to follow instructions carefully.**
-
----
-### Create, fork, and clone a new GitHub repo named class-04-lab
 
 1. Navigator forks Driver's repo
 2. Navigator clones their fork (`git clone <url>`)
@@ -25,7 +20,7 @@ Today in lab you will create a new GitHub repo and pair-program the solutions to
   - Reminder: `cd ../` out of your own Game directory before cloning
 5. *Create and move to a new branch (<yourName>-class04) for your work*
 6. Partners work on the first half of the assignment problem (using only the driver's computer)
-  - This does not have to be exact science.
+  - Deciding what is "the first half" does not have to be exact science.
 7. On a regular basis: Driver acp (push to branch)
 8. When first half complete: Driver makes Pull Request (PR) from branch to master
 9. Both Driver and Navigator review PR; Navigator accepts PR to merge branch to master
@@ -34,25 +29,23 @@ Today in lab you will create a new GitHub repo and pair-program the solutions to
 
 ## Extend and Refine
 
-- You'll be making some edits your game. After each bit of work is completed, be sure to do an add-commit-push cycle (**a-c-p**) to place the code on GitHub and preserve a versioned history of your work.
+- You'll be making some edits to your game. After each bit of work is completed, be sure to do an add-commit-push cycle (**a-c-p**) to place the code on GitHub and preserve a versioned history of your work.
 
 - DON'T FORGET TO DO YOUR WORK ON BRANCHES! Push each new feature to GitHub when it is complete, do a Pull Request to merge the work into the master branch, and pull master before starting work on the next feature.
 
-- Move the logic for all questions into functions: We learned about functions, and now we'll move the logic for the individual questions into separate functions, and call those functions to initiate the game.
+- Move the logic for all questions into functions: We learned about functions, so now we'll move the logic for the individual questions into separate functions and call those functions to initiate the game.
 
 - In its most basic sense, this is pretty simple and straightforward: 'wrap' the logic and variables for a given question with `function someFuncNameYouChoose() {` at the beginning, and add a closing curly brace `}` at the end. To make the function execute, just call it afterwards: `someFuncNameYouChoose();` After completing this step the game should behave exactly as it did before. **a-c-p**
 
 - Stretch goal #1: For the yes/no questions, refactor so that your questions, the correct answers, and the two possible responses are in separate arrays. (The same applies if you've added in any other pieces to the questions besides the most basic structure.) Once this is done you can replace that content in the functions by accessing the arrays.  **a-c-p**
 
-- Stretch goal #2: depending upon time: Reduce the yes/no questions from five functions to one, and then use a 'for' loop to iterate through the arrays and call the function for each question.  **a-c-p**
+- Stretch goal #2: depending on time: Reduce the yes/no questions from five functions to one, and then use a 'for' loop to iterate through the arrays and call the function for each question.  **a-c-p**
 
 ### Technical Requirements
 
 - All work should be completed on Git branches and merged to master by using a Pull Request on GitHub. If you work on stretch goals, use separate branches for the function-wrapping goal and each of the stretch goals.
 
 - All logic for getting the username and running the quiz should be encapsulated in functions that are called to run the quiz. NO NAKED JS STATEMENTS except global variable declarations.
-
-- Your finished product should be deployed to GH pages
 
 ### Submitting Your Assignment
 
