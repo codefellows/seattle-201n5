@@ -2,10 +2,10 @@
 # Today's Plan: Class 08 Lecture
 
 - Announcements
-- [Code Review](#codereview) [Scott]
-- [Events](#events) [Dan]
-- [HTML Forms](#forms) [Dan]
-- Q&A and/or additional code review as time allows [Dan/Scott]
+- [Code Review](#codereview)
+- [Events](#events)
+- [HTML Forms](#forms)
+- Q&A and/or additional code review as time allows
 
 ## Readings
 
