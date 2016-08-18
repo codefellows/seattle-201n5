@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Forms &amp; Events Demo</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+
+    <form id="product-form">
+      <fieldset>
+        <legend>Product Deets</legend>
+        <label for="product">Product</label>
+        <input type="text" id="product">
+
+        <label>Net<input type="text" id='net-cost' name='net-cost'></label>
+        <label>Gross Profit<input type="text" id='gp' name='gp'></label>
+      </fieldset>
+
+      <input type="submit" id='submit'>
+      <!-- <button type="submit">Submit</button> -->
+    </form>
+
+    <table id='data-table'></table>
+
+    <script src='app.js'></script>
+  </body>
+</html>
