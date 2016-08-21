@@ -1,0 +1,25 @@
+img {
+  width: 100%;
+  max-width: 400px;
+  /*height: 1000px;*/
+}
+
+#one {
+  color: lightblue;
+}
+
+#two {
+  /* range for each character: 0-f */
+  color: #bbaacc;
+  /*color: #bac; This is the shorthand for the above */
+}
+
+#three {
+  /* range for each value: 0-255 */
+  color: rgba(255, 0, 255, 1);
+}
+
+#four {
+  /* range for Hue: 0-360  */
+  color: hsla(360, 50%, 100%, 0.5);
+}

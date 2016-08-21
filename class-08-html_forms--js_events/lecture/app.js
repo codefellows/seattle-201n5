@@ -8,9 +8,9 @@ function Product(name, net, gp) {
   allProducts.push(this);
 }
 
-new Product('Sock', 1.5, .75);
-new Product('Bucket', 200, 200);
-new Product('Marker', 5, .5);
+new Product('Sock', 1.5, 1.75);
+new Product('Bucket', 200, 2);
+new Product('Marker', 5, 1.5);
 
 function buildTable() {
   var tableHeaders = ['Name', 'Net', 'GP', 'Sell'];
@@ -49,10 +49,32 @@ function buildTable() {
 
 var productForm = document.getElementById('product-form');
 
-productForm.addEventListener('submit', function(event) {
+// productForm.addEventListener('submit', function(event) {
+//   event.preventDefault();
+//   // Use the event.target to get input values from the form
+//   var product = event.target.product.value;
+//   var net = event.target.net_cost.value;
+//   var gp = event.target.gp.value;
+//
+//   // Generate a new Product object from form inputs
+//   new Product(product, net, gp);
+//
+//   // Render new Product object to the table
+//   buildTable();
+// });
+
+function getValues(event) {
   event.preventDefault();
-  console.log(event.target);
   // Use the event.target to get input values from the form
+  var product = event.target.product.value;
+  var net = event.target.net_cost.value;
+  var gp = event.target.gp.value;
+
   // Generate a new Product object from form inputs
+  new Product(product, net, gp);
+
   // Render new Product object to the table
-});
+  buildTable();
+}
+
+productForm.addEventListener('submit', getValues);
