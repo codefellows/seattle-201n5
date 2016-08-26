@@ -41,7 +41,7 @@ function scopyFunc(doggy) {
   return privateFunc();
 }
 
-scopyFunc('Fido');
+scopyFunc('Fido'); // => Fido says woof!
 
 //object context
 var teacherBot = {
@@ -62,17 +62,17 @@ age               //age is not defined
 
 ```javascript
 function add(x,y) {
-  console.log('now running add');
+  console.log('now running add'); //implicit return in log
   return x + y;
 }
 
 function multiply(x,y) {
-  console.log('now running multiply');
+  console.log('now running multiply'); //implicit return in log
   return x * y;
 }
 
 function report(x,y) {
-  console.log('now running report');
+  console.log('now running report'); //implicit return in log
   var sum = 'The sum of ' + x + ' and ' + y + ' is ' + add(x,y);
   var product = 'The product of ' + x + ' and ' + y + ' is ' + multiply(x,y);
   return 'The sum is ' + sum + '. The product is ' + product;
