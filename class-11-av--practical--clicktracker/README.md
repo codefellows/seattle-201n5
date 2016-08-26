@@ -2,9 +2,10 @@
 # Today's Plan: Class 11 Lecture
 
 - Announcements
-- [Code Review](#codereview) [Dan]
-- [Discuss the assigned readings](#readings) [Dan]
-- [Assignment overview & code demo](#code) [Scott]
+- Weekly Surveys
+- [Code Review](#codereview)
+- [Discuss the assigned readings](#readings)
+- [Assignment overview & code demo](#code)
   - Write user stories as groups
 
 ## Readings
