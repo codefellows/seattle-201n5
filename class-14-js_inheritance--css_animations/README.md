@@ -3,7 +3,7 @@
 
 - Announcements
   - Project Week is almost here!!!
-- Code Review *[45 minutes]*
+- Code Review
 - [Topics in more advanced JS](#js)
 - [CSS Animations](#css)
 - [Git Workflow For Teams](#git)

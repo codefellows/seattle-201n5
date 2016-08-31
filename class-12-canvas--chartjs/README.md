@@ -1,7 +1,8 @@
 <a id="top"></a>
 # Today's Plan: Class 12 Lecture
 
-- Announcements [Scott]
+- Announcements
+  - 301 Enrollment
   - Project Week is getting closer! Here are some more sample projects to look at:
     - [Sasquatch Dice](http://mmailman.github.io/dice-game/)
     - [OnTrack](http://jeffgebhardt.github.io/on-track/)
@@ -10,11 +11,10 @@
     - [Welcome to Seattle](http://peterbreen.github.io/welcome-to-seattle/)
     - [Budget Buddy](http://stefuhnee.github.io/budget-buddy/)
     - [Hacker Hangout](http://ckperez.github.io/hackerhangout/)
-  - Review Project Period Scheduling
 
-- [Code Review](#code) [Scott]
-- [\<canvas> overview](#canvas) [Dan]
-- [ChartJS demos](#chartjs) [Dan]
+- [Code Review](#code)
+- [\<canvas> overview](#canvas)
+- [ChartJS demos](#chartjs)
 
 ## Readings
 
