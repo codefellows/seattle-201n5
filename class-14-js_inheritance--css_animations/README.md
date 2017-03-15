@@ -1,18 +1,25 @@
 <a id="top"></a>
 # Today's Plan: Class 14 Lecture
 
+Team 1: Flash Cards
+Colby & Trent
+
+Team 2: Memory Game
+Ray, Jeff, Kaylee
+
+# Project Pitches:
+1. Kindergarten Readiness (Flash Cards)
+2. Tic Tac Toe Game
+3. Shift Rotation Scheduler
+4. Price || Events Tracker
+5. Flavor Bible
+
 - Announcements
   - Project Week is almost here!!!
 - Code Review
-- [Topics in more advanced JS](#js)
 - [CSS Animations](#css)
 - [Git Workflow For Teams](#git)
 - [Project Pitches](#pitches)
-
-<a id="js"></a>
-## Advanced JS topics
-
-We're going to explore some advanced JS topics with *Eloquent JavaScript* and other sources. The goal is not to study them in a manner such that you are going to immediately have command over them, but to give you a basic understanding of what these topics are and find good resources for them.
 
 [-top-](#top)
 
